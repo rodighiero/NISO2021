@@ -1,4 +1,4 @@
-import { BitmapText, Circle, Graphics, Point } from 'pixi.js'
+import { BitmapText, Circle, Graphics, Point, Texture, Sprite } from 'pixi.js'
 
 import { mouseover, mouseout } from '../interface/mouseover'
 
@@ -20,27 +20,55 @@ const color = {
 export default () => {
 
     const stage = new Graphics()
-    stage.alpha = 0
+    // stage.alpha = 0
     stage.name = 'nodes'
     s.viewport.addChild(stage)
+
 
     s.nodes.forEach(node => {
 
 
         // Circle
 
+        if (node.image !== null || node.name.includes('Suver')) {
+
+            console.log()
+            console.log(node.name)
+            console.log(node.image)
+
+            const side = 20
+
+            let texture = Texture.from(node.image)
+            let sprite = new Sprite(texture)
+            sprite.width = side
+            sprite.height = side
+            sprite.position = new Point(node.x - side / 2, node.y - side / 2)
+            sprite.interactiveChildren = false
+            stage.addChild(sprite)
+
+            // let mask = new Graphics()
+            // mask.beginFill(color.off, 1)
+            // mask.drawCircle(0, 0, 100)
+            // // mask.endFill()
+            // // mask.x = node.x
+            // mask.position = new Point(node.x, node.y)
+
+            // sprite.mask = mask
+
+        }
+
         const size = 4
 
-        node.circle = new Graphics()
-        node.circle.beginFill(color.off, 1)
-        node.circle.drawCircle(0, 0, size)
-        node.circle.endFill()
-        node.circle.tint = color.off
-        node.circle.position = new Point(node.x, node.y)
-        node.circle.hitArea = new Circle(0, 0, s.distance)
-        node.circle.interactive = true
+        // node.circle = new Graphics()
+        // node.circle.beginFill(color.off, 1)
+        // node.circle.drawCircle(0, 0, size)
+        // node.circle.endFill()
+        // node.circle.tint = color.off
+        // node.circle.position = new Point(node.x, node.y)
+        // node.circle.hitArea = new Circle(0, 0, s.distance)
+        // node.circle.interactive = true
 
-        stage.addChild(node.circle)
+        // stage.addChild(node.circle)
 
         // Label
 
