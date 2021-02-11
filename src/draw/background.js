@@ -2,7 +2,7 @@ import { Point, Sprite, Texture } from 'pixi.js'
 
 export default () => {
 
-    const size = 5000
+    const size = 2000
 
     const canvas = document.createElement('canvas')
     const context = canvas.getContext('2d')
@@ -14,8 +14,8 @@ export default () => {
         size / 2, size / 2, size / 2
     )
 
-    gradient.addColorStop(1, '#000000')
-    gradient.addColorStop(0, '#333333')
+    gradient.addColorStop(1, '#4198C7')
+    gradient.addColorStop(0, '#317396')
 
     context.fillStyle = gradient
     context.fillRect(0, 0, canvas.width, canvas.height)

@@ -11,11 +11,7 @@ const splitInTwo = string => {
     return [string, '']
 }
 
-const color = {
-    on: 0xFEDD00,
-    off: 0x333333,
-}
-
+const color = '0x70c4f6'
 
 export default () => {
 
@@ -32,6 +28,14 @@ export default () => {
 
         const side = 20
 
+        node.contour = new Graphics()
+        node.contour.lineStyle(1, 0xffffff, 1);
+        node.contour.drawCircle(0, 0, side / 2)
+        node.contour.position = new Point(node.x, node.y)
+        node.contour.interactive = false
+
+        stage.addChild(node.contour)
+
         if (node.image !== null || node.name.includes('Suver')) {
 
 
@@ -45,7 +49,7 @@ export default () => {
 
             let mask = new Graphics()
             stage.addChild(mask);
-            mask.beginFill(color.off, 1)
+            mask.beginFill(color, 1)
             mask.drawCircle(0, 0, side / 2)
             mask.position = new Point(node.x, node.y)
             mask.interactiveChildren = false
@@ -55,10 +59,8 @@ export default () => {
         } else {
 
             node.circle = new Graphics()
-            node.circle.beginFill(color.off, 1)
+            node.circle.beginFill(color, 1)
             node.circle.drawCircle(0, 0, side / 2)
-            node.circle.endFill()
-            node.circle.tint = color.off
             node.circle.position = new Point(node.x, node.y)
             node.circle.hitArea = new Circle(0, 0, s.distance)
             node.circle.interactive = true

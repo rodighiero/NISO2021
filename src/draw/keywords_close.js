@@ -8,7 +8,7 @@ export default () => {
     stage.interactiveChildren = false
     s.viewport.addChild(stage)
 
-    const lineHeight = 5
+    const lineHeight = 4
     const items = 3
 
     s.triplets.forEach(triplet => {
@@ -24,8 +24,8 @@ export default () => {
                 key,
                 {
                     fontName: 'Lato',
-                    fontSize: '4',
-                    tint: 0x666666,
+                    fontSize: '3',
+                    tint: 0xFFFFFF,
                     align: 'center',
                 })
 

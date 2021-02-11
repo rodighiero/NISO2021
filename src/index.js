@@ -93,7 +93,7 @@ Promise.all([
     // Zoom Min and Max
 
     s.zoomMin = scale * .9 // reduction is to create a margin
-    s.zoomMax = 5
+    s.zoomMax = 15
 
     // Vieport
 
