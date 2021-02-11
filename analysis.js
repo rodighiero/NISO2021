@@ -94,7 +94,7 @@ const analysis = nodes => {
         if (Object.values(node.tokens).length > 0)
             node.relevancy = Object.values(node.tokens).reduce((a, b) => a + b)
         else
-            node.relevancy = 0
+            node.relevancy = 100
 
     })
 
@@ -187,7 +187,7 @@ const analysis = nodes => {
 
     simulation
         .force('charge', reuse.forceManyBodyReuse()
-            .strength(10)
+            .strength(50)
             .distanceMax(30)
         )
         .force('collide', d3.forceCollide()

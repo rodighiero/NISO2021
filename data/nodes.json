@@ -5,7 +5,7 @@
     "position": "Writer",
     "location": null,
     "url": "http://craphound.com",
-    "image": "https://avatars.sched.co/9/37/594635/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/9/37/594635/avatar.jpg.320x320px.jpg",
     "tokens": {
       "novel": 27,
       "award": 24,
@@ -157,9 +157,9 @@
     },
     "relevancy": 953,
     "index": 0,
-    "x": 60,
-    "y": 187,
-    "cluster": 18
+    "x": -72,
+    "y": -61,
+    "cluster": 22
   },
   {
     "name": "Zeynep Tufekci",
@@ -167,7 +167,7 @@
     "position": "Associate Professor",
     "location": null,
     "url": "http://technosociology.org/",
-    "image": "https://avatars.sched.co/8/4d/5253287/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/8/4d/5253287/avatar.jpg.320x320px.jpg",
     "tokens": {
       "newsletter": 16,
       "facebook": 11,
@@ -221,9 +221,9 @@
     },
     "relevancy": 260,
     "index": 1,
-    "x": 218,
-    "y": 180,
-    "cluster": 1
+    "x": 33,
+    "y": 229,
+    "cluster": 12
   },
   {
     "name": "Margaret Sraku-Lartey, PhD",
@@ -231,7 +231,7 @@
     "position": "Principal Librarian",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/4/85/12260724/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/85/12260724/avatar.jpg.320x320px.jpg",
     "tokens": {
       "indigenous": 20,
       "knowledge": 17,
@@ -323,9 +323,9 @@
     },
     "relevancy": 470,
     "index": 2,
-    "x": -59,
-    "y": -40,
-    "cluster": 6
+    "x": 194,
+    "y": -106,
+    "cluster": 9
   },
   {
     "name": "Heather Joseph",
@@ -333,7 +333,7 @@
     "position": "Executive Director",
     "location": "Washington, DC",
     "url": "http://sparc.arl.org",
-    "image": "https://avatars.sched.co/5/a5/1247979/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/5/a5/1247979/avatar.jpg.320x320px.jpg",
     "tokens": {
       "access": 23,
       "joseph": 16,
@@ -427,9 +427,9 @@
     },
     "relevancy": 498,
     "index": 3,
-    "x": -23,
-    "y": 56,
-    "cluster": 4
+    "x": 73,
+    "y": -6,
+    "cluster": 18
   },
   {
     "name": "Dr Norihiro Hagita",
@@ -437,7 +437,7 @@
     "position": null,
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/c/c4/12347756/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/c/c4/12347756/avatar.jpg.320x320px.jpg",
     "tokens": {
       "hagita": 16,
       "japan": 11,
@@ -497,9 +497,9 @@
     },
     "relevancy": 277,
     "index": 4,
-    "x": 98,
-    "y": 283,
-    "cluster": 18
+    "x": 220,
+    "y": 49,
+    "cluster": 24
   },
   {
     "name": "Christopher Spalding",
@@ -507,7 +507,7 @@
     "position": "VP, Product Management Research Solutions",
     "location": "cspalding@ebsco.com",
     "url": "ebsco.com",
-    "image": "https://avatars.sched.co/7/78/8585524/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/78/8585524/avatar.jpg.320x320px.jpg",
     "tokens": {
       "christopher": 16,
       "ebsco": 15,
@@ -564,9 +564,9 @@
     },
     "relevancy": 270,
     "index": 5,
-    "x": -68,
-    "y": 348,
-    "cluster": 20
+    "x": -93,
+    "y": 56,
+    "cluster": 6
   },
   {
     "name": "Btihaj Ajana",
@@ -574,7 +574,7 @@
     "position": "Reader in Media and Digital Culture",
     "location": "UK",
     "url": "https://www.kcl.ac.uk/people/btihaj-ajana",
-    "image": "https://avatars.sched.co/0/4e/12260552/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/0/4e/12260552/avatar.jpg.320x320px.jpg",
     "tokens": {
       "culture": 14,
       "politic": 10,
@@ -618,9 +618,9 @@
     },
     "relevancy": 204,
     "index": 6,
-    "x": 89,
-    "y": 342,
-    "cluster": 15
+    "x": -185,
+    "y": -20,
+    "cluster": 16
   },
   {
     "name": "Liz Allen",
@@ -628,7 +628,7 @@
     "position": "Director of Strategic Initiatives",
     "location": null,
     "url": "https://f1000research.com/",
-    "image": "https://avatars.sched.co/d/4d/3432551/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/d/4d/3432551/avatar.jpg.320x320px.jpg",
     "tokens": {
       "research": 9,
       "initiatife": 8,
@@ -672,18 +672,18 @@
     },
     "relevancy": 185,
     "index": 7,
-    "x": -114,
-    "y": 311,
-    "cluster": 29
+    "x": 185,
+    "y": -48,
+    "cluster": 9
   },
-  {"name": "Shelley Allen", "company": "Emerald", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 8, "x": -290, "y": -328, "cluster": 8},
+  {"name": "Shelley Allen", "company": "Emerald", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 8, "x": -403, "y": -6, "cluster": 21},
   {
     "name": "Tony Alves",
     "company": "@OccupySTM",
     "position": "Scholarly Publishing Free Agent",
     "location": null,
     "url": "https://www.tonyhopedale.com",
-    "image": "https://avatars.sched.co/6/9d/4753772/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/9d/4753772/avatar.jpg.320x320px.jpg",
     "tokens": {
       "design": 9,
       "development": 8,
@@ -725,9 +725,9 @@
     },
     "relevancy": 158,
     "index": 9,
-    "x": -170,
-    "y": 2,
-    "cluster": 26
+    "x": -2,
+    "y": 132,
+    "cluster": 12
   },
   {
     "name": "Michele Avissar-Whiting",
@@ -735,7 +735,7 @@
     "position": "Operations Director",
     "location": null,
     "url": "researchsquare.com",
-    "image": "https://avatars.sched.co/0/b3/8819162/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/0/b3/8819162/avatar.jpg.320x320px.jpg",
     "tokens": {
       "michele": 11,
       "square": 11,
@@ -765,9 +765,9 @@
     },
     "relevancy": 118,
     "index": 10,
-    "x": -115,
-    "y": -20,
-    "cluster": 6
+    "x": -97,
+    "y": -218,
+    "cluster": 23
   },
   {
     "name": "Mohamed Ba-Essa",
@@ -775,13 +775,13 @@
     "position": "Manager, Preservation & Digital Services",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/4/26/7577288/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/26/7577288/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 11,
-    "x": -27,
-    "y": -518,
-    "cluster": 28
+    "x": -312,
+    "y": -202,
+    "cluster": 29
   },
   {
     "name": "Judy Bai",
@@ -789,7 +789,7 @@
     "position": "Director of Business Development",
     "location": "Shanghai",
     "url": null,
-    "image": "https://avatars.sched.co/7/09/12260585/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/09/12260585/avatar.jpg.320x320px.jpg",
     "tokens": {
       "china": 20,
       "nature": 14,
@@ -853,9 +853,9 @@
     },
     "relevancy": 285,
     "index": 12,
-    "x": 42,
-    "y": 304,
-    "cluster": 18
+    "x": 129,
+    "y": -27,
+    "cluster": 9
   },
   {
     "name": "Jody Bailey",
@@ -863,12 +863,12 @@
     "position": "Head of Scholarly Communications Office",
     "location": "jody.bailey",
     "url": "https://sco.library.emory.edu/",
-    "image": "https://avatars.sched.co/2/1f/8992799/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/2/1f/8992799/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 13,
-    "x": -375,
-    "y": -117,
+    "x": -342,
+    "y": 128,
     "cluster": 10
   },
   {
@@ -919,9 +919,9 @@
     },
     "relevancy": 168,
     "index": 14,
-    "x": -4,
-    "y": 268,
-    "cluster": 18
+    "x": 94,
+    "y": -123,
+    "cluster": 20
   },
   {
     "name": "Daniel Bangert",
@@ -953,9 +953,9 @@
     },
     "relevancy": 110,
     "index": 15,
-    "x": 216,
-    "y": 37,
-    "cluster": 2
+    "x": -42,
+    "y": -240,
+    "cluster": 23
   },
   {
     "name": "Davin Baragiotta",
@@ -963,7 +963,7 @@
     "position": "IT Lead",
     "location": "Montr al",
     "url": "www.erudit.org",
-    "image": "https://avatars.sched.co/b/b6/5935271/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/b6/5935271/avatar.jpg.320x320px.jpg",
     "tokens": {
       "kbart": 9,
       "davin": 5,
@@ -988,8 +988,8 @@
     },
     "relevancy": 84,
     "index": 16,
-    "x": -22,
-    "y": 386,
+    "x": 3,
+    "y": -200,
     "cluster": 20
   },
   {
@@ -998,13 +998,13 @@
     "position": "Senior Vice President, Strategic Alliances",
     "location": null,
     "url": "www.codemantra.com",
-    "image": "https://avatars.sched.co/8/66/10527719/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/8/66/10527719/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 17,
-    "x": 430,
-    "y": -240,
-    "cluster": 23
+    "x": 347,
+    "y": 225,
+    "cluster": 3
   },
   {
     "name": "Arianna Becerril-Garcia",
@@ -1014,11 +1014,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 18,
-    "x": -352,
-    "y": 97,
-    "cluster": 17
+    "x": -282,
+    "y": 174,
+    "cluster": 10
   },
   {
     "name": "Graham Bell",
@@ -1026,7 +1026,7 @@
     "position": "Executive Director",
     "location": "London, UK",
     "url": "www.editeur.org",
-    "image": "https://avatars.sched.co/8/CA/4528911/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/8/CA/4528911/avatar.jpg.320x320px.jpg",
     "tokens": {
       "serial": 10,
       "editeur": 5,
@@ -1056,9 +1056,9 @@
     },
     "relevancy": 116,
     "index": 19,
-    "x": -263,
-    "y": -74,
-    "cluster": 16
+    "x": -220,
+    "y": -118,
+    "cluster": 4
   },
   {
     "name": "Emma Booth",
@@ -1066,7 +1066,7 @@
     "position": "E-Resources Metadata Specialist",
     "location": "Manchester, UK",
     "url": null,
-    "image": "https://avatars.sched.co/d/93/12326616/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/d/93/12326616/avatar.jpg.320x320px.jpg",
     "tokens": {
       "metadata": 24,
       "acquisition": 9,
@@ -1118,9 +1118,9 @@
     },
     "relevancy": 247,
     "index": 20,
-    "x": 107,
-    "y": 225,
-    "cluster": 18
+    "x": 89,
+    "y": 208,
+    "cluster": 7
   },
   {
     "name": "Keith Breckenridge",
@@ -1130,11 +1130,11 @@
     "url": "http://wiser.wits.ac.za",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 21,
-    "x": -279,
-    "y": -209,
-    "cluster": 7
+    "x": -319,
+    "y": 73,
+    "cluster": 13
   },
   {
     "name": "Curtis Brundy",
@@ -1142,7 +1142,7 @@
     "position": "AUL Scholarly Communications and Collections",
     "location": "United States",
     "url": null,
-    "image": "https://avatars.sched.co/c/b0/4333023/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/c/b0/4333023/avatar.jpg.320x320px.jpg",
     "tokens": {
       "scholarly": 6,
       "signatory": 5,
@@ -1165,18 +1165,18 @@
     },
     "relevancy": 74,
     "index": 22,
-    "x": -151,
-    "y": -117,
-    "cluster": 3
+    "x": -241,
+    "y": 0,
+    "cluster": 13
   },
-  {"name": "Carsten Buhr", "company": "SciFlow", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 23, "x": -227, "y": 355, "cluster": 14},
+  {"name": "Carsten Buhr", "company": "SciFlow", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 23, "x": 52, "y": 401, "cluster": 26},
   {
     "name": "Adrian Burton",
     "company": "ARDC - Australian Research Data Commons",
     "position": "Director of Services, Policy, Collections",
     "location": "@andsdata",
     "url": null,
-    "image": "https://avatars.sched.co/6/01/6999026/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/01/6999026/avatar.jpg.320x320px.jpg",
     "tokens": {
       "policy": 7,
       "service": 6,
@@ -1196,9 +1196,9 @@
     },
     "relevancy": 63,
     "index": 24,
-    "x": 145,
-    "y": 321,
-    "cluster": 12
+    "x": 160,
+    "y": -203,
+    "cluster": 20
   },
   {
     "name": "Kath Burton",
@@ -1206,7 +1206,7 @@
     "position": "Portfolio Development - Humanities",
     "location": "Reading",
     "url": "www.tandfonline.com",
-    "image": "https://avatars.sched.co/b/96/5633567/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/96/5633567/avatar.jpg.320x320px.jpg",
     "tokens": {
       "humanity": 17,
       "public": 12,
@@ -1253,9 +1253,9 @@
     },
     "relevancy": 228,
     "index": 25,
-    "x": -72,
-    "y": -129,
-    "cluster": 3
+    "x": -230,
+    "y": -59,
+    "cluster": 4
   },
   {
     "name": "Yvonne Campfens",
@@ -1263,7 +1263,7 @@
     "position": "Executive director OA Swtichboard",
     "location": "Netherlands",
     "url": "www.oaswitchboard.org",
-    "image": "https://avatars.sched.co/5/70/12106296/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/5/70/12106296/avatar.jpg.320x320px.jpg",
     "tokens": {
       "switchboard": 22,
       "springer": 20,
@@ -1343,9 +1343,9 @@
     },
     "relevancy": 416,
     "index": 26,
-    "x": -41,
-    "y": 172,
-    "cluster": 4
+    "x": 39,
+    "y": -102,
+    "cluster": 20
   },
   {
     "name": "Mike Caprara",
@@ -1355,11 +1355,11 @@
     "url": "https://viscardicenter.org",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 27,
-    "x": -339,
-    "y": 23,
-    "cluster": 10
+    "x": 72,
+    "y": 345,
+    "cluster": 26
   },
   {
     "name": "Lori Carlin",
@@ -1367,7 +1367,7 @@
     "position": "Director of Marketing",
     "location": null,
     "url": "deltathink.com",
-    "image": "https://avatars.sched.co/8/92/4494189/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/8/92/4494189/avatar.jpg.320x320px.jpg",
     "tokens": {
       "marketing": 24,
       "customer": 13,
@@ -1433,9 +1433,9 @@
     },
     "relevancy": 322,
     "index": 28,
-    "x": -133,
-    "y": 98,
-    "cluster": 21
+    "x": 165,
+    "y": 69,
+    "cluster": 18
   },
   {
     "name": "Todd Carpenter",
@@ -1443,13 +1443,13 @@
     "position": "Executive Director",
     "location": "In an aluminum tube at 30K feet",
     "url": "https://www.niso.org",
-    "image": "https://avatars.sched.co/7/40/3416248/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/40/3416248/avatar.jpg.320x320px.jpg",
     "tokens": {"running": 5, "orcid": 4, "standard": 3},
     "relevancy": 12,
     "index": 29,
-    "x": 182,
-    "y": -130,
-    "cluster": 11
+    "x": 270,
+    "y": -263,
+    "cluster": 14
   },
   {
     "name": "Christopher Chan",
@@ -1457,7 +1457,7 @@
     "position": "Deputy University Librarian",
     "location": "Hong Kong",
     "url": "https://library.hkbu.edu.hk",
-    "image": "https://avatars.sched.co/4/0b/12122055/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/0b/12122055/avatar.jpg.320x320px.jpg",
     "tokens": {
       "librarian": 8,
       "school": 7,
@@ -1479,9 +1479,9 @@
     },
     "relevancy": 74,
     "index": 30,
-    "x": 209,
-    "y": 240,
-    "cluster": 12
+    "x": 104,
+    "y": -182,
+    "cluster": 20
   },
   {
     "name": "Jane Charlton",
@@ -1491,11 +1491,11 @@
     "url": "https://openathens.org",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 31,
-    "x": -164,
-    "y": -244,
-    "cluster": 7
+    "x": 131,
+    "y": -347,
+    "cluster": 17
   },
   {
     "name": "Barbara Chen",
@@ -1584,8 +1584,8 @@
     },
     "relevancy": 406,
     "index": 32,
-    "x": -68,
-    "y": 18,
+    "x": 8,
+    "y": 73,
     "cluster": 6
   },
   {
@@ -1596,11 +1596,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 33,
-    "x": -35,
-    "y": -458,
-    "cluster": 13
+    "x": 284,
+    "y": 380,
+    "cluster": 27
   },
   {
     "name": "Jonathan Clark",
@@ -1608,13 +1608,13 @@
     "position": "Managing Agent",
     "location": null,
     "url": "https://doi.org",
-    "image": "https://avatars.sched.co/f/a5/12272618/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/a5/12272618/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 34,
-    "x": 389,
-    "y": -29,
-    "cluster": 25
+    "x": 384,
+    "y": 40,
+    "cluster": 28
   },
   {
     "name": "Brian Cody",
@@ -1622,12 +1622,12 @@
     "position": "CEO and Co-Founder",
     "location": "Chicago, IL",
     "url": "https://scholasticahq.com/",
-    "image": "https://avatars.sched.co/0/b4/10303638/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/0/b4/10303638/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 35,
-    "x": 351,
-    "y": 55,
+    "x": -324,
+    "y": -142,
     "cluster": 25
   },
   {
@@ -1636,7 +1636,7 @@
     "position": "Senior Acquiring Editor",
     "location": "Ann Arbor, MI",
     "url": "https://www.press.umich.edu/",
-    "image": "https://avatars.sched.co/f/25/12260618/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/25/12260618/avatar.jpg.320x320px.jpg",
     "tokens": {
       "study": 12,
       "michigan": 9,
@@ -1667,9 +1667,9 @@
     },
     "relevancy": 115,
     "index": 36,
-    "x": -236,
-    "y": 81,
-    "cluster": 17
+    "x": -114,
+    "y": 174,
+    "cluster": 5
   },
   {
     "name": "Andrew Cormack",
@@ -1677,7 +1677,7 @@
     "position": "Chief Regulatory Adviser",
     "location": "UK",
     "url": "https://regulatorydevelopments.jiscinvolve.org/",
-    "image": "https://avatars.sched.co/2/df/12260543/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/2/df/12260543/avatar.jpg.320x320px.jpg",
     "tokens": {
       "conference": 12,
       "response": 11,
@@ -1745,9 +1745,9 @@
     },
     "relevancy": 326,
     "index": 37,
-    "x": -161,
-    "y": 274,
-    "cluster": 29
+    "x": 149,
+    "y": -144,
+    "cluster": 9
   },
   {
     "name": "Kyle K. Courtney",
@@ -1755,7 +1755,7 @@
     "position": "Copyright Advisor",
     "location": null,
     "url": "http://scholar.harvard.edu/kcourtney/home",
-    "image": "https://avatars.sched.co/6/65/2244954/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/65/2244954/avatar.jpg.320x320px.jpg",
     "tokens": {
       "harvard": 26,
       "copyright": 22,
@@ -1854,8 +1854,8 @@
     },
     "relevancy": 505,
     "index": 38,
-    "x": -13,
-    "y": -3,
+    "x": -48,
+    "y": 94,
     "cluster": 6
   },
   {
@@ -1866,11 +1866,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 39,
-    "x": 323,
-    "y": -337,
-    "cluster": 24
+    "x": -268,
+    "y": -161,
+    "cluster": 25
   },
   {
     "name": "David Crotty",
@@ -1939,9 +1939,9 @@
     },
     "relevancy": 308,
     "index": 40,
-    "x": -32,
-    "y": 114,
-    "cluster": 4
+    "x": -17,
+    "y": -82,
+    "cluster": 22
   },
   {
     "name": "Kirt von Daacke",
@@ -1951,11 +1951,11 @@
     "url": "https://www.kirtvondaacke.net/",
     "image": "https://pbs.twimg.com/profile_images/1314312263076110336/x8LMw56W_400x400.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 41,
-    "x": -220,
-    "y": -220,
-    "cluster": 7
+    "x": -289,
+    "y": -43,
+    "cluster": 21
   },
   {
     "name": "Trevor A Dawes",
@@ -1963,7 +1963,7 @@
     "position": null,
     "location": "Wilmington, DE",
     "url": null,
-    "image": "https://avatars.sched.co/b/cd/12298736/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/cd/12298736/avatar.jpg.320x320px.jpg",
     "tokens": {
       "dawe": 16,
       "development": 6,
@@ -2012,9 +2012,9 @@
     },
     "relevancy": 200,
     "index": 42,
-    "x": 122,
-    "y": -36,
-    "cluster": 11
+    "x": -164,
+    "y": -138,
+    "cluster": 4
   },
   {
     "name": "Stephanie Dawson",
@@ -2022,7 +2022,7 @@
     "position": "CEO",
     "location": "Berlin, Germany",
     "url": "https://www.scienceopen.com",
-    "image": "https://avatars.sched.co/0/7d/12207159/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/0/7d/12207159/avatar.jpg.320x320px.jpg",
     "tokens": {
       "scienceopen": 5,
       "embedded": 5,
@@ -2044,9 +2044,9 @@
     },
     "relevancy": 70,
     "index": 43,
-    "x": -292,
-    "y": 103,
-    "cluster": 17
+    "x": 323,
+    "y": 66,
+    "cluster": 24
   },
   {
     "name": "Marisa DeMeglio",
@@ -2054,7 +2054,7 @@
     "position": "Software Developer",
     "location": "Los Angeles, USA",
     "url": "https://daisy.org",
-    "image": "https://avatars.sched.co/b/7d/7075876/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/7d/7075876/avatar.jpg.320x320px.jpg",
     "tokens": {
       "addition": 10,
       "software": 10,
@@ -2099,9 +2099,9 @@
     },
     "relevancy": 193,
     "index": 44,
-    "x": -216,
-    "y": -36,
-    "cluster": 16
+    "x": -160,
+    "y": 136,
+    "cluster": 5
   },
   {
     "name": "Aimee DesRoches",
@@ -2111,10 +2111,10 @@
     "url": "https://www.ariessys.com/",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 45,
-    "x": 319,
-    "y": 106,
+    "x": -210,
+    "y": -177,
     "cluster": 25
   },
   {
@@ -2151,9 +2151,9 @@
     },
     "relevancy": 105,
     "index": 46,
-    "x": 160,
-    "y": 60,
-    "cluster": 2
+    "x": 287,
+    "y": -31,
+    "cluster": 24
   },
   {
     "name": "John Dove",
@@ -2161,7 +2161,7 @@
     "position": "Founder",
     "location": "Impact-Hub, Boston MA",
     "url": null,
-    "image": "https://avatars.sched.co/a/b4/9266722/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/a/b4/9266722/avatar.jpg.320x320px.jpg",
     "tokens": {
       "access": 13,
       "financial": 5,
@@ -2186,9 +2186,9 @@
     },
     "relevancy": 93,
     "index": 47,
-    "x": 30,
-    "y": -112,
-    "cluster": 19
+    "x": 115,
+    "y": -243,
+    "cluster": 20
   },
   {
     "name": "Ian Duncan",
@@ -2196,13 +2196,13 @@
     "position": "Director, Outreach",
     "location": null,
     "url": "www.ardc.edu.au",
-    "image": "https://avatars.sched.co/4/f4/6932270/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/f4/6932270/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 48,
-    "x": -48,
-    "y": 440,
-    "cluster": 20
+    "x": -223,
+    "y": 165,
+    "cluster": 5
   },
   {
     "name": "Christina Emery",
@@ -2210,13 +2210,13 @@
     "position": "Senior marketing manager, open access books",
     "location": "London, UK",
     "url": "www.springernature.com/oabooks",
-    "image": "https://avatars.sched.co/f/3e/4708006/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/3e/4708006/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 49,
-    "x": 78,
-    "y": -422,
-    "cluster": 5
+    "x": -93,
+    "y": -280,
+    "cluster": 11
   },
   {
     "name": "Lorraine Estelle",
@@ -2224,7 +2224,7 @@
     "position": "Project Director",
     "location": "Southampton, United Kingdom",
     "url": "www.projectcounter.org",
-    "image": "https://avatars.sched.co/9/CC/3248302/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/9/CC/3248302/avatar.jpg.320x320px.jpg",
     "tokens": {
       "usage": 15,
       "lorraine": 11,
@@ -2281,24 +2281,24 @@
     },
     "relevancy": 276,
     "index": 50,
-    "x": 125,
-    "y": 107,
-    "cluster": 2
+    "x": -52,
+    "y": -179,
+    "cluster": 23
   },
-  {"name": "Rosemary Farmer", "company": "Wiley", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 51, "x": -319, "y": -96, "cluster": 16},
+  {"name": "Rosemary Farmer", "company": "Wiley", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 51, "x": -276, "y": 114, "cluster": 13},
   {
     "name": "Patricia Feeney",
     "company": "Crossref",
     "position": "Head of Metadata",
     "location": "Lynnfield, MA USA",
     "url": null,
-    "image": "https://avatars.sched.co/1/f4/3432619/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/f4/3432619/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 52,
-    "x": 179,
-    "y": -430,
-    "cluster": 27
+    "x": 13,
+    "y": -305,
+    "cluster": 15
   },
   {
     "name": "Katrina Fenlon",
@@ -2306,13 +2306,13 @@
     "position": "Assistant Professor",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/5/d0/6587122/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/5/d0/6587122/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 53,
-    "x": 291,
-    "y": 272,
-    "cluster": 12
+    "x": -181,
+    "y": 261,
+    "cluster": 2
   },
   {
     "name": "Heather Flanagan",
@@ -2322,11 +2322,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 54,
-    "x": -92,
-    "y": -332,
-    "cluster": 9
+    "x": -278,
+    "y": -102,
+    "cluster": 25
   },
   {
     "name": "Judith Fraenkel",
@@ -2334,7 +2334,7 @@
     "position": "Director of Product Management",
     "location": null,
     "url": "https://exlibrisgroup.com/",
-    "image": "https://avatars.sched.co/7/4f/7563142/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/4f/7563142/avatar.jpg.320x320px.jpg",
     "tokens": {
       "judith": 11,
       "libris": 9,
@@ -2383,9 +2383,9 @@
     },
     "relevancy": 201,
     "index": 55,
-    "x": -245,
-    "y": 140,
-    "cluster": 17
+    "x": -12,
+    "y": 191,
+    "cluster": 12
   },
   {
     "name": "Jason Friedman",
@@ -2393,13 +2393,13 @@
     "position": "Manager, Member and Metadata Services",
     "location": "Ottawa",
     "url": "www.crkn-rcdr.ca",
-    "image": "https://avatars.sched.co/e/3c/6102094/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/e/3c/6102094/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 56,
-    "x": -347,
-    "y": 201,
-    "cluster": 14
+    "x": -241,
+    "y": 270,
+    "cluster": 2
   },
   {
     "name": "Kathryn Funk",
@@ -2407,7 +2407,7 @@
     "position": "Technical Information Specialist",
     "location": "Bethesda, Maryland",
     "url": null,
-    "image": "https://avatars.sched.co/6/A4/2703373/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/A4/2703373/avatar.jpg.320x320px.jpg",
     "tokens": {
       "policy": 7,
       "kathryn": 5,
@@ -2450,9 +2450,9 @@
     },
     "relevancy": 156,
     "index": 57,
-    "x": 171,
-    "y": 144,
-    "cluster": 1
+    "x": 139,
+    "y": -85,
+    "cluster": 9
   },
   {
     "name": "Emma Ganley",
@@ -2460,7 +2460,7 @@
     "position": "Director of Strategic Initiatives",
     "location": "emma@protocols.io",
     "url": "https://protocols.io",
-    "image": "https://avatars.sched.co/6/68/11477054/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/68/11477054/avatar.jpg.320x320px.jpg",
     "tokens": {
       "followed": 5,
       "postdoc": 5,
@@ -2501,9 +2501,9 @@
     },
     "relevancy": 152,
     "index": 58,
-    "x": -254,
-    "y": 199,
-    "cluster": 14
+    "x": 231,
+    "y": -10,
+    "cluster": 9
   },
   {
     "name": "Maria Gould",
@@ -2511,13 +2511,13 @@
     "position": "Product Manager/Research Data Specialist",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/f/4f/6947039/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/4f/6947039/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 59,
-    "x": -218,
-    "y": -280,
-    "cluster": 7
+    "x": -299,
+    "y": 16,
+    "cluster": 13
   },
   {
     "name": "Mark Graham",
@@ -2525,13 +2525,13 @@
     "position": "Director",
     "location": "San Francisco",
     "url": "http://web.archive.org",
-    "image": "https://avatars.sched.co/f/75/5547232/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/75/5547232/avatar.jpg.320x320px.jpg",
     "tokens": {"useful": 5, "reliable": 5, "connect": 5, "archiving": 5, "person": 4, "focus": 4, "content": 3, "digital": 3},
     "relevancy": 34,
     "index": 60,
-    "x": -16,
-    "y": -151,
-    "cluster": 3
+    "x": 295,
+    "y": -168,
+    "cluster": 14
   },
   {
     "name": "Jason Griffey",
@@ -2539,13 +2539,13 @@
     "position": "Director of Strategic Initiatives",
     "location": "Sewanee, TN",
     "url": "http://niso.org",
-    "image": "https://avatars.sched.co/5/11/10052669/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/5/11/10052669/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 61,
-    "x": 119,
-    "y": 448,
-    "cluster": 22
+    "x": -129,
+    "y": 316,
+    "cluster": 2
   },
   {
     "name": "Adina Halter",
@@ -2555,11 +2555,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 62,
-    "x": -61,
-    "y": -384,
-    "cluster": 9
+    "x": -151,
+    "y": -258,
+    "cluster": 23
   },
   {
     "name": "Melissa Harrison",
@@ -2567,7 +2567,7 @@
     "position": "Head of Production Operations",
     "location": "Cambridge",
     "url": "https://elifesciences.org/",
-    "image": "https://avatars.sched.co/8/FB/3432474/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/8/FB/3432474/avatar.jpg.320x320px.jpg",
     "tokens": {
       "benefit": 9,
       "publishing": 8,
@@ -2597,9 +2597,9 @@
     },
     "relevancy": 115,
     "index": 63,
-    "x": -272,
-    "y": -15,
-    "cluster": 16
+    "x": 59,
+    "y": -221,
+    "cluster": 20
   },
   {
     "name": "Robert Heaton",
@@ -2607,7 +2607,7 @@
     "position": "Collection Management Librarian",
     "location": "Logan, Utah",
     "url": null,
-    "image": "https://avatars.sched.co/e/0a/2582969/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/e/0a/2582969/avatar.jpg.320x320px.jpg",
     "tokens": {
       "stuff": 14,
       "paying": 11,
@@ -2638,9 +2638,9 @@
     },
     "relevancy": 129,
     "index": 64,
-    "x": 76,
-    "y": -74,
-    "cluster": 19
+    "x": -153,
+    "y": -197,
+    "cluster": 23
   },
   {
     "name": "Hannah Heckner",
@@ -2648,7 +2648,7 @@
     "position": "Product Strategist",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/b/69/10527791/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/69/10527791/avatar.jpg.320x320px.jpg",
     "tokens": {
       "product": 13,
       "within": 12,
@@ -2713,9 +2713,9 @@
     },
     "relevancy": 314,
     "index": 65,
-    "x": 23,
-    "y": 92,
-    "cluster": 4
+    "x": -7,
+    "y": -140,
+    "cluster": 20
   },
   {
     "name": "Ginny Hendricks",
@@ -2723,7 +2723,7 @@
     "position": "Community Director",
     "location": "London, UK",
     "url": "https://www.crossref.org/people/ginny-hendricks/",
-    "image": "https://avatars.sched.co/3/fc/3208562/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/3/fc/3208562/avatar.jpg.320x320px.jpg",
     "tokens": {
       "metadata": 12,
       "ginny": 11,
@@ -2784,9 +2784,9 @@
     },
     "relevancy": 271,
     "index": 66,
-    "x": -216,
-    "y": 295,
-    "cluster": 14
+    "x": 256,
+    "y": 146,
+    "cluster": 0
   },
   {
     "name": "Christian Herzog",
@@ -2796,11 +2796,11 @@
     "url": "www.digital-science.com",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 67,
-    "x": -143,
-    "y": -300,
-    "cluster": 7
+    "x": -335,
+    "y": -82,
+    "cluster": 21
   },
   {
     "name": "Lisa Janicke Hinchliffe",
@@ -2808,13 +2808,13 @@
     "position": "Professor/Coordinator for Information Literacy Services and Instruction in the University Library",
     "location": "Urbana-Champaign, Illinois",
     "url": "https://lisahinchliffe.com",
-    "image": "https://avatars.sched.co/4/ab/5607481/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/ab/5607481/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 68,
-    "x": 370,
-    "y": -235,
-    "cluster": 23
+    "x": 382,
+    "y": -27,
+    "cluster": 28
   },
   {
     "name": "Sandy Hirsh",
@@ -2822,7 +2822,7 @@
     "position": "Associate Dean for Academics",
     "location": "San Jose, CA",
     "url": null,
-    "image": "https://avatars.sched.co/4/6C/448825/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/6C/448825/avatar.jpg.320x320px.jpg",
     "tokens": {
       "serving": 17,
       "library": 14,
@@ -2915,9 +2915,9 @@
     },
     "relevancy": 469,
     "index": 69,
-    "x": 69,
-    "y": 129,
-    "cluster": 4
+    "x": 84,
+    "y": -64,
+    "cluster": 9
   },
   {
     "name": "Athena Hoeppner",
@@ -2925,13 +2925,13 @@
     "position": "Discovery Services Librarian",
     "location": "Orlando, FL",
     "url": "http://library.ucf.edu",
-    "image": "https://avatars.sched.co/4/f1/2506258/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/f1/2506258/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 70,
-    "x": -5,
-    "y": -405,
-    "cluster": 13
+    "x": -48,
+    "y": -319,
+    "cluster": 15
   },
   {
     "name": "Alex Holcombe",
@@ -2939,7 +2939,7 @@
     "position": "Professor",
     "location": null,
     "url": "https://medium.com/@ceptional/announcing-tenzing-ceca6789d88c",
-    "image": "https://avatars.sched.co/1/de/12456654/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/de/12456654/avatar.jpg.320x320px.jpg",
     "tokens": {
       "tenzing": 11,
       "author": 7,
@@ -3002,9 +3002,9 @@
     },
     "relevancy": 264,
     "index": 71,
-    "x": 67,
-    "y": -15,
-    "cluster": 2
+    "x": -62,
+    "y": -120,
+    "cluster": 22
   },
   {
     "name": "Simon Holt",
@@ -3046,8 +3046,8 @@
     },
     "relevancy": 129,
     "index": 72,
-    "x": -160,
-    "y": -57,
+    "x": -149,
+    "y": 77,
     "cluster": 16
   },
   {
@@ -3056,7 +3056,7 @@
     "position": "Senior Product Manager",
     "location": "Boston, MA",
     "url": "https://www.copyright.com/",
-    "image": "https://avatars.sched.co/4/61/12260639/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/61/12260639/avatar.jpg.320x320px.jpg",
     "tokens": {
       "stephen": 22,
       "analytic": 13,
@@ -3107,9 +3107,9 @@
     },
     "relevancy": 245,
     "index": 73,
-    "x": -87,
-    "y": 135,
-    "cluster": 21
+    "x": 155,
+    "y": 128,
+    "cluster": 1
   },
   {
     "name": "Bruce Howell",
@@ -3119,11 +3119,11 @@
     "url": "carroll.org",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 74,
-    "x": 257,
-    "y": 322,
-    "cluster": 12
+    "x": 13,
+    "y": 355,
+    "cluster": 8
   },
   {
     "name": "Iain Hrynaszkiewicz",
@@ -3131,13 +3131,13 @@
     "position": "Director, Open Research Solutions",
     "location": "UK",
     "url": "https://plos.org/",
-    "image": "https://avatars.sched.co/4/3c/12260627/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/3c/12260627/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 75,
-    "x": -92,
-    "y": -437,
-    "cluster": 9
+    "x": -208,
+    "y": -239,
+    "cluster": 19
   },
   {
     "name": "Ian M Ibbotson",
@@ -3145,13 +3145,13 @@
     "position": "Director",
     "location": "Sheffield",
     "url": "https://www.k-int.com",
-    "image": "https://avatars.sched.co/6/3f/5525123/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/3f/5525123/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 76,
-    "x": 430,
-    "y": -106,
-    "cluster": 0
+    "x": 373,
+    "y": 99,
+    "cluster": 24
   },
   {
     "name": "Violaine Iglesias",
@@ -3159,22 +3159,22 @@
     "position": "Cadmore Media",
     "location": "Bethesda, MD",
     "url": "https://www.cadmore.media",
-    "image": "https://avatars.sched.co/9/50/10527923/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/9/50/10527923/avatar.jpg.320x320px.jpg",
     "tokens": {"video": 10, "metadata": 4, "interest": 4},
     "relevancy": 18,
     "index": 77,
-    "x": -227,
-    "y": -153,
-    "cluster": 16
+    "x": -171,
+    "y": 196,
+    "cluster": 5
   },
-  {"name": "Beverly Jamison", "company": "IEEE", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 78, "x": 241, "y": -435, "cluster": 27},
+  {"name": "Beverly Jamison", "company": "IEEE", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 78, "x": 77, "y": -310, "cluster": 17},
   {
     "name": "Ben Johnson",
     "company": "Ex Libris, a ProQuest Company",
     "position": "Provider Relations Engagement Manager",
     "location": "Seattle, WA",
     "url": null,
-    "image": "https://avatars.sched.co/f/0e/1980855/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/0e/1980855/avatar.jpg.320x320px.jpg",
     "tokens": {
       "proquest": 11,
       "kbart": 9,
@@ -3210,9 +3210,9 @@
     },
     "relevancy": 135,
     "index": 79,
-    "x": -124,
-    "y": 370,
-    "cluster": 20
+    "x": 134,
+    "y": 246,
+    "cluster": 7
   },
   {
     "name": "Michael Johnson",
@@ -3220,13 +3220,13 @@
     "position": "Director Content Partnerships",
     "location": null,
     "url": "bornaccessible.org",
-    "image": "https://avatars.sched.co/c/1c/9677863/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/c/1c/9677863/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 80,
-    "x": -231,
-    "y": -339,
-    "cluster": 8
+    "x": -345,
+    "y": -22,
+    "cluster": 21
   },
   {
     "name": "Allen Jones",
@@ -3234,13 +3234,13 @@
     "position": "Director, Digital Library & Technical Services",
     "location": "Greater New York City Area",
     "url": "https://library.newschool.edu",
-    "image": "https://avatars.sched.co/a/93/3939922/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/a/93/3939922/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 81,
-    "x": 373,
-    "y": -294,
-    "cluster": 23
+    "x": 349,
+    "y": -142,
+    "cluster": 14
   },
   {
     "name": "Andrew Joseph",
@@ -3250,11 +3250,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 82,
-    "x": -180,
-    "y": 393,
-    "cluster": 20
+    "x": -193,
+    "y": 320,
+    "cluster": 2
   },
   {
     "name": "Bill Kasdorf",
@@ -3262,7 +3262,7 @@
     "position": "Principal",
     "location": "Ann Arbor, Michigan, USA",
     "url": "https://pubtechpartners.com/2",
-    "image": "https://avatars.sched.co/7/b9/5933533/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/b9/5933533/avatar.jpg.320x320px.jpg",
     "tokens": {
       "kasdorf": 16,
       "publishing": 13,
@@ -3340,9 +3340,9 @@
     },
     "relevancy": 369,
     "index": 83,
-    "x": -78,
-    "y": 77,
-    "cluster": 21
+    "x": -27,
+    "y": -23,
+    "cluster": 22
   },
   {
     "name": "Daniel S. Katz",
@@ -3350,7 +3350,7 @@
     "position": "Chief Scientist, NCSA",
     "location": "@danielskatz",
     "url": "http://danielskatz.org/",
-    "image": "https://avatars.sched.co/2/d0/2821192/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/2/d0/2821192/avatar.jpg.320x320px.jpg",
     "tokens": {
       "software": 10,
       "computer": 8,
@@ -3397,9 +3397,9 @@
     },
     "relevancy": 196,
     "index": 84,
-    "x": 113,
-    "y": 23,
-    "cluster": 2
+    "x": 205,
+    "y": -165,
+    "cluster": 14
   },
   {
     "name": "Roy Kaufman",
@@ -3407,7 +3407,7 @@
     "position": "Managing Director, Business Development",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/a/30/12260603/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/a/30/12260603/avatar.jpg.320x320px.jpg",
     "tokens": {
       "kaufman": 22,
       "legal": 10,
@@ -3473,9 +3473,9 @@
     },
     "relevancy": 306,
     "index": 85,
-    "x": -179,
-    "y": 60,
-    "cluster": 26
+    "x": -138,
+    "y": 18,
+    "cluster": 16
   },
   {
     "name": "Dmitri  Khodjakov",
@@ -3485,11 +3485,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 86,
-    "x": 301,
-    "y": -422,
-    "cluster": 24
+    "x": 230,
+    "y": -308,
+    "cluster": 17
   },
   {
     "name": "Bohyun Kim",
@@ -3497,7 +3497,7 @@
     "position": "CTO & Associate Professor",
     "location": null,
     "url": "http://www.bohyunkim.net/blog/",
-    "image": "https://avatars.sched.co/9/46/4811469/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/9/46/4811469/avatar.jpg.320x320px.jpg",
     "tokens": {
       "library": 16,
       "association": 10,
@@ -3549,8 +3549,8 @@
     },
     "relevancy": 228,
     "index": 87,
-    "x": 116,
-    "y": 166,
+    "x": 53,
+    "y": 111,
     "cluster": 18
   },
   {
@@ -3561,11 +3561,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 88,
-    "x": -121,
-    "y": -385,
-    "cluster": 9
+    "x": -268,
+    "y": -243,
+    "cluster": 29
   },
   {
     "name": "Paula Krebs",
@@ -3573,7 +3573,7 @@
     "position": "Executive Director",
     "location": "New York, NY",
     "url": "mla.org",
-    "image": "https://avatars.sched.co/7/f6/6443952/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/f6/6443952/avatar.jpg.320x320px.jpg",
     "tokens": {
       "literature": 14,
       "language": 12,
@@ -3615,9 +3615,9 @@
     },
     "relevancy": 181,
     "index": 89,
-    "x": 20,
-    "y": -52,
-    "cluster": 19
+    "x": -108,
+    "y": -158,
+    "cluster": 23
   },
   {
     "name": "Nettie Lagace",
@@ -3625,7 +3625,7 @@
     "position": "Associate Executive Director",
     "location": "Boston, MA USA",
     "url": null,
-    "image": "https://avatars.sched.co/7/6e/433019/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/6e/433019/avatar.jpg.320x320px.jpg",
     "tokens": {
       "nettie": 11,
       "working": 6,
@@ -3668,9 +3668,9 @@
     },
     "relevancy": 153,
     "index": 90,
-    "x": -106,
-    "y": 252,
-    "cluster": 29
+    "x": 119,
+    "y": 32,
+    "cluster": 18
   },
   {
     "name": "Rachael Lammey",
@@ -3678,13 +3678,13 @@
     "position": "Head of Special Programs",
     "location": "Oxford, UK",
     "url": null,
-    "image": "https://avatars.sched.co/0/82/2344626/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/0/82/2344626/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 91,
-    "x": 125,
-    "y": -461,
-    "cluster": 5
+    "x": 69,
+    "y": -370,
+    "cluster": 15
   },
   {
     "name": "Stacey Lavelle",
@@ -3694,11 +3694,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 92,
-    "x": 315,
-    "y": 166,
-    "cluster": 1
+    "x": 130,
+    "y": 331,
+    "cluster": 26
   },
   {
     "name": "Carlo Scollo Lavizzari",
@@ -3706,7 +3706,7 @@
     "position": "Advocate",
     "location": null,
     "url": "https://lclaw.ch",
-    "image": "https://avatars.sched.co/1/3a/12260567/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/3a/12260567/avatar.jpg.320x320px.jpg",
     "tokens": {
       "carlo": 27,
       "licensing": 22,
@@ -3803,18 +3803,31 @@
     },
     "relevancy": 568,
     "index": 93,
-    "x": -207,
-    "y": 236,
+    "x": -128,
+    "y": -41,
+    "cluster": 16
+  },
+  {
+    "name": "Charles Letaillieur",
+    "company": "Opscidia",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 100,
+    "index": 94,
+    "x": 327,
+    "y": -243,
     "cluster": 14
   },
-  {"name": "Charles Letaillieur", "company": "Opscidia", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 94, "x": 352, "y": -389, "cluster": 24},
   {
     "name": "Noah Levin",
     "company": "Independent Professional",
     "position": "Co-Chair NISO KBART Standing Committee",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/5/45/9266851/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/5/45/9266851/avatar.jpg.320x320px.jpg",
     "tokens": {
       "kbart": 9,
       "metadata": 8,
@@ -3844,9 +3857,9 @@
     },
     "relevancy": 110,
     "index": 95,
-    "x": -1,
-    "y": 478,
-    "cluster": 15
+    "x": -87,
+    "y": 363,
+    "cluster": 8
   },
   {
     "name": "Noah Levin",
@@ -3856,11 +3869,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 96,
-    "x": -263,
-    "y": 258,
-    "cluster": 14
+    "x": -68,
+    "y": 212,
+    "cluster": 12
   },
   {
     "name": "Tim Lloyd",
@@ -3868,7 +3881,7 @@
     "position": "CEO",
     "location": "Washington D.C. Metro Area",
     "url": "https://www.liblynx.com",
-    "image": "https://avatars.sched.co/1/fe/5933549/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/fe/5933549/avatar.jpg.320x320px.jpg",
     "tokens": {
       "resource": 12,
       "access": 10,
@@ -3907,9 +3920,9 @@
     },
     "relevancy": 160,
     "index": 97,
-    "x": -198,
-    "y": 178,
-    "cluster": 14
+    "x": -103,
+    "y": 115,
+    "cluster": 6
   },
   {
     "name": "Brandon Locke",
@@ -3919,10 +3932,10 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 98,
-    "x": -329,
-    "y": -37,
+    "x": -336,
+    "y": 200,
     "cluster": 10
   },
   {
@@ -3931,7 +3944,7 @@
     "position": "Teenie Harris Archivist",
     "location": "Greater Pittsburgh Area",
     "url": "http://www.dominiqueluster.com/",
-    "image": "https://avatars.sched.co/7/b2/2946930/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/b2/2946930/avatar.jpg.320x320px.jpg",
     "tokens": {
       "undergraduate": 10,
       "dominique": 5,
@@ -3955,9 +3968,9 @@
     },
     "relevancy": 88,
     "index": 99,
-    "x": 255,
-    "y": 133,
-    "cluster": 1
+    "x": 203,
+    "y": -245,
+    "cluster": 17
   },
   {
     "name": "Sylvain MASSIP",
@@ -3965,7 +3978,7 @@
     "position": "CEO",
     "location": "France",
     "url": "www.opscidia.com",
-    "image": "https://avatars.sched.co/4/63/12260621/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/63/12260621/avatar.jpg.320x320px.jpg",
     "tokens": {
       "reuse": 11,
       "scientific": 9,
@@ -3994,9 +4007,9 @@
     },
     "relevancy": 122,
     "index": 100,
-    "x": 169,
-    "y": 0,
-    "cluster": 2
+    "x": -195,
+    "y": 38,
+    "cluster": 16
   },
   {
     "name": "Ellen McClure",
@@ -4006,11 +4019,11 @@
     "url": "ehi.uic.edu",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 101,
-    "x": -172,
-    "y": -352,
-    "cluster": 8
+    "x": -381,
+    "y": -122,
+    "cluster": 21
   },
   {
     "name": "Alison McGonagle-O'Connell",
@@ -4020,11 +4033,11 @@
     "url": "Https://www.DeltaThink.com",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 102,
-    "x": 447,
-    "y": -302,
-    "cluster": 23
+    "x": 371,
+    "y": -86,
+    "cluster": 28
   },
   {
     "name": "Rebecca McLeod",
@@ -4034,11 +4047,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 103,
-    "x": -273,
-    "y": 318,
-    "cluster": 14
+    "x": -287,
+    "y": 309,
+    "cluster": 2
   },
   {
     "name": "Alice Meadows",
@@ -4046,13 +4059,13 @@
     "position": "Director of Community Engagement",
     "location": "Brookline, MA",
     "url": null,
-    "image": "https://avatars.sched.co/7/bf/10297946/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/bf/10297946/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 104,
-    "x": 28,
-    "y": -455,
-    "cluster": 13
+    "x": -139,
+    "y": -317,
+    "cluster": 11
   },
   {
     "name": "Gabriela Mejias",
@@ -4060,22 +4073,22 @@
     "position": "Engagement Manager",
     "location": "Berlin, Germany",
     "url": null,
-    "image": "https://avatars.sched.co/5/f2/12276767/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/5/f2/12276767/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 105,
-    "x": 405,
-    "y": 28,
-    "cluster": 25
+    "x": 245,
+    "y": 265,
+    "cluster": 3
   },
-  {"name": "Alex Mendonca", "company": "SciELO", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 106, "x": -287, "y": -149, "cluster": 16},
+  {"name": "Alex Mendonca", "company": "SciELO", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 106, "x": -374, "y": 48, "cluster": 21},
   {
     "name": "Laurent Le Meur",
     "company": "EDRLab",
     "position": "CTO",
     "location": "Paris, France",
     "url": "www.edrlab.org",
-    "image": "https://avatars.sched.co/d/27/10474085/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/d/27/10474085/avatar.jpg.320x320px.jpg",
     "tokens": {
       "reading": 15,
       "readium": 11,
@@ -4119,9 +4132,9 @@
     },
     "relevancy": 190,
     "index": 107,
-    "x": -26,
-    "y": -90,
-    "cluster": 3
+    "x": 276,
+    "y": 28,
+    "cluster": 24
   },
   {
     "name": "Geoff Morse",
@@ -4131,11 +4144,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 108,
-    "x": 248,
-    "y": 381,
-    "cluster": 12
+    "x": -14,
+    "y": 410,
+    "cluster": 8
   },
   {
     "name": "Peter Murray",
@@ -4143,7 +4156,7 @@
     "position": "Open Source Community Advocate",
     "location": "Columbus, Ohio Area",
     "url": "https://www.indexdata.com/",
-    "image": "https://avatars.sched.co/B/4F/4754844/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/B/4F/4754844/avatar.jpg.320x320px.jpg",
     "tokens": {
       "library": 14,
       "service": 11,
@@ -4210,8 +4223,8 @@
     },
     "relevancy": 298,
     "index": 109,
-    "x": 5,
-    "y": 209,
+    "x": 64,
+    "y": 52,
     "cluster": 18
   },
   {
@@ -4220,13 +4233,13 @@
     "position": "Interim Associate Dean",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/e/b1/770681/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/e/b1/770681/avatar.jpg.320x320px.jpg",
     "tokens": {"marriott": 5, "library": 3, "university": 2},
     "relevancy": 10,
     "index": 110,
-    "x": 201,
-    "y": 299,
-    "cluster": 12
+    "x": 79,
+    "y": 268,
+    "cluster": 7
   },
   {
     "name": "Anna Neatrour",
@@ -4234,13 +4247,13 @@
     "position": "Interim Head, Digital Library Services",
     "location": "Salt Lake City, Utah",
     "url": null,
-    "image": "https://avatars.sched.co/2/23/1103302/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/2/23/1103302/avatar.jpg.320x320px.jpg",
     "tokens": {"marriott": 5, "library": 3, "university": 2},
     "relevancy": 10,
     "index": 111,
-    "x": 25,
-    "y": 424,
-    "cluster": 15
+    "x": -124,
+    "y": 233,
+    "cluster": 5
   },
   {
     "name": "Charles O'Connor",
@@ -4248,13 +4261,13 @@
     "position": "Business Systems Analyst",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/c/6d/5931093/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/c/6d/5931093/avatar.jpg.320x320px.jpg",
     "tokens": {"production": 4, "workflow": 4, "journal": 3},
     "relevancy": 11,
     "index": 112,
-    "x": -171,
-    "y": -174,
-    "cluster": 7
+    "x": 158,
+    "y": -284,
+    "cluster": 17
   },
   {
     "name": "Brian O'Leary",
@@ -4262,7 +4275,7 @@
     "position": "Executive Director",
     "location": "South Orange, New Jersey",
     "url": "www.bisg.org",
-    "image": "https://avatars.sched.co/d/88/3901887/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/d/88/3901887/avatar.jpg.320x320px.jpg",
     "tokens": {
       "leary": 27,
       "create": 9,
@@ -4323,9 +4336,9 @@
     },
     "relevancy": 279,
     "index": 113,
-    "x": -124,
-    "y": 39,
-    "cluster": 26
+    "x": -58,
+    "y": 153,
+    "cluster": 12
   },
   {
     "name": "Joy Owango",
@@ -4333,7 +4346,7 @@
     "position": "Executive Director/Board Member",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/b/5c/12260588/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/5c/12260588/avatar.jpg.320x320px.jpg",
     "tokens": {
       "collaboration": 12,
       "experienced": 10,
@@ -4402,9 +4415,9 @@
     },
     "relevancy": 328,
     "index": 114,
-    "x": 78,
-    "y": 71,
-    "cluster": 2
+    "x": 48,
+    "y": -161,
+    "cluster": 20
   },
   {
     "name": "Abel Packer",
@@ -4412,13 +4425,13 @@
     "position": null,
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/f/db/4715470/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/db/4715470/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 115,
-    "x": 397,
-    "y": -350,
-    "cluster": 24
+    "x": 367,
+    "y": -199,
+    "cluster": 14
   },
   {
     "name": "Danielle Padula",
@@ -4426,7 +4439,7 @@
     "position": "Marketing and Community Development Manager",
     "location": "Chicago, IL",
     "url": "https://scholasticahq.com/",
-    "image": "https://avatars.sched.co/1/b2/8894077/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/b2/8894077/avatar.jpg.320x320px.jpg",
     "tokens": {
       "scholastica": 11,
       "journal": 6,
@@ -4464,9 +4477,9 @@
     },
     "relevancy": 148,
     "index": 116,
-    "x": -226,
-    "y": 23,
-    "cluster": 26
+    "x": 145,
+    "y": 187,
+    "cluster": 1
   },
   {
     "name": "Russell Palmer",
@@ -4474,13 +4487,13 @@
     "position": "Assistant Director",
     "location": "Athens, GA",
     "url": "http://www.galileo.usg.edu/welcome/",
-    "image": "https://avatars.sched.co/c/bb/1057993/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/c/bb/1057993/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 117,
-    "x": 45,
-    "y": -512,
-    "cluster": 28
+    "x": -104,
+    "y": -366,
+    "cluster": 11
   },
   {
     "name": "Erika Pastrana",
@@ -4547,9 +4560,9 @@
     },
     "relevancy": 327,
     "index": 118,
-    "x": -152,
-    "y": 215,
-    "cluster": 29
+    "x": -83,
+    "y": -3,
+    "cluster": 22
   },
   {
     "name": "Diane Pennington",
@@ -4557,7 +4570,7 @@
     "position": "Senior Lecturer in Info Science & CILIP MDG Chair",
     "location": "Glasgow, Scotland",
     "url": "https://personal.cis.strath.ac.uk/diane.pennington/",
-    "image": "https://avatars.sched.co/3/b1/2745995/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/3/b1/2745995/avatar.jpg.320x320px.jpg",
     "tokens": {
       "information": 11,
       "strathclyde": 11,
@@ -4614,9 +4627,9 @@
     },
     "relevancy": 258,
     "index": 119,
-    "x": -59,
-    "y": 289,
-    "cluster": 29
+    "x": 99,
+    "y": 149,
+    "cluster": 1
   },
   {
     "name": "Steve Pinchotti",
@@ -4624,7 +4637,7 @@
     "position": "CEO",
     "location": "Reston, VA",
     "url": "https://www.altum.com",
-    "image": "https://avatars.sched.co/a/ba/6600932/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/a/ba/6600932/avatar.jpg.320x320px.jpg",
     "tokens": {
       "steve": 22,
       "altum": 22,
@@ -4686,9 +4699,9 @@
     },
     "relevancy": 293,
     "index": 120,
-    "x": 162,
-    "y": 203,
-    "cluster": 18
+    "x": 240,
+    "y": -68,
+    "cluster": 9
   },
   {
     "name": "Heather Piwowar",
@@ -4718,9 +4731,9 @@
     },
     "relevancy": 78,
     "index": 121,
-    "x": 179,
-    "y": -58,
-    "cluster": 11
+    "x": -206,
+    "y": 97,
+    "cluster": 13
   },
   {
     "name": "Eleonora Presani",
@@ -4760,8 +4773,8 @@
     },
     "relevancy": 127,
     "index": 122,
-    "x": 207,
-    "y": 96,
+    "x": 190,
+    "y": 225,
     "cluster": 1
   },
   {
@@ -4772,11 +4785,11 @@
     "url": "https://ourresearch.org",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 123,
-    "x": 461,
-    "y": -186,
-    "cluster": 0
+    "x": 433,
+    "y": 6,
+    "cluster": 28
   },
   {
     "name": "Raymond Pun",
@@ -4784,12 +4797,12 @@
     "position": "Librarian",
     "location": "California",
     "url": null,
-    "image": "https://avatars.sched.co/1/99/2010959/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/99/2010959/avatar.jpg.320x320px.jpg",
     "tokens": {"recipient": 5, "scholarship": 4, "diversity": 4, "librarian": 4, "academic": 4, "school": 4, "2020.": 0},
     "relevancy": 25,
     "index": 124,
-    "x": 192,
-    "y": 358,
+    "x": -23,
+    "y": 251,
     "cluster": 12
   },
   {
@@ -4798,13 +4811,13 @@
     "position": "Metadata Librarian",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/1/60/10526623/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/60/10526623/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 125,
-    "x": 133,
-    "y": -520,
-    "cluster": 27
+    "x": 9,
+    "y": -365,
+    "cluster": 15
   },
   {
     "name": "C K Ramaiah",
@@ -4812,13 +4825,13 @@
     "position": "Professor",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/6/42/12124599/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/42/12124599/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 126,
-    "x": 369,
-    "y": 138,
-    "cluster": 25
+    "x": 148,
+    "y": 389,
+    "cluster": 26
   },
   {
     "name": "Andr e Rathemacher",
@@ -4858,9 +4871,9 @@
     },
     "relevancy": 125,
     "index": 127,
-    "x": 34,
-    "y": 364,
-    "cluster": 15
+    "x": 200,
+    "y": 166,
+    "cluster": 1
   },
   {
     "name": "Laura Ricci",
@@ -4868,7 +4881,7 @@
     "position": "Consultant",
     "location": "Boston",
     "url": "ce-strategy.com",
-    "image": "https://avatars.sched.co/1/33/9610759/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/1/33/9610759/avatar.jpg.320x320px.jpg",
     "tokens": {
       "publishing": 8,
       "senior": 7,
@@ -4917,9 +4930,9 @@
     },
     "relevancy": 191,
     "index": 128,
-    "x": -96,
-    "y": 193,
-    "cluster": 21
+    "x": 175,
+    "y": 11,
+    "cluster": 9
   },
   {
     "name": "Oya Y. Rieger",
@@ -4927,13 +4940,13 @@
     "position": "Senior Strategist",
     "location": null,
     "url": "https://sr.ithaka.org/people/oya-y-rieger/",
-    "image": "https://avatars.sched.co/2/bb/12126981/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/2/bb/12126981/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 129,
-    "x": 139,
-    "y": 386,
-    "cluster": 22
+    "x": -157,
+    "y": 368,
+    "cluster": 2
   },
   {
     "name": "Dario Rodighiero",
@@ -4941,7 +4954,7 @@
     "position": "Research Scholar",
     "location": "Cambridge, MA",
     "url": "https://dariorodighiero.com",
-    "image": "https://avatars.sched.co/f/d8/12260573/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/f/d8/12260573/avatar.jpg.320x320px.jpg",
     "tokens": {
       "design": 18,
       "humanity": 13,
@@ -5063,9 +5076,9 @@
     },
     "relevancy": 617,
     "index": 130,
-    "x": 14,
-    "y": 150,
-    "cluster": 4
+    "x": -118,
+    "y": -99,
+    "cluster": 22
   },
   {
     "name": "Vee Rogacheva",
@@ -5073,13 +5086,13 @@
     "position": "Service design lead",
     "location": null,
     "url": "openathens.org",
-    "image": "https://avatars.sched.co/3/85/12260633/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/3/85/12260633/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 131,
-    "x": 489,
-    "y": -116,
-    "cluster": 0
+    "x": 367,
+    "y": 159,
+    "cluster": 24
   },
   {
     "name": "Rhonda Ross",
@@ -5089,10 +5102,10 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 132,
-    "x": -391,
-    "y": 52,
+    "x": -318,
+    "y": 258,
     "cluster": 10
   },
   {
@@ -5103,11 +5116,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 133,
-    "x": 189,
-    "y": -490,
-    "cluster": 27
+    "x": 116,
+    "y": -406,
+    "cluster": 17
   },
   {
     "name": "Joris van Rossum",
@@ -5115,13 +5128,13 @@
     "position": "Director, Research Integrity",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/a/63/12260606/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/a/63/12260606/avatar.jpg.320x320px.jpg",
     "tokens": {"joris": 5, "rossum": 5, "integral": 5, "component": 5, "trusted": 5, "integrity": 5, "mission": 5, "advance": 5, "research": 5, "lead": 4, "program": 3},
     "relevancy": 52,
     "index": 134,
-    "x": 85,
-    "y": -134,
-    "cluster": 19
+    "x": 313,
+    "y": 125,
+    "cluster": 24
   },
   {
     "name": "Sara Rouhi",
@@ -5129,13 +5142,13 @@
     "position": "Director, Strategic Partnerships",
     "location": "Washington DC",
     "url": null,
-    "image": "https://avatars.sched.co/b/94/9266899/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/94/9266899/avatar.jpg.320x320px.jpg",
     "tokens": {"accessl": 5, "improv": 5, "comedy": 5, "beyond": 5, "metric": 5, "model": 4, "partnership": 4, "publisher": 3, "business": 3, "library": 3, "science": 3},
     "relevancy": 45,
     "index": 135,
-    "x": -282,
-    "y": 44,
-    "cluster": 17
+    "x": -252,
+    "y": 59,
+    "cluster": 13
   },
   {
     "name": "Katharina Ruckstuhl",
@@ -5143,7 +5156,7 @@
     "position": "Associate Dean M_ori",
     "location": "Otago",
     "url": "https://www.otago.ac.nz/business/about/dean/katharina-ruckstuhl.html",
-    "image": "https://avatars.sched.co/9/90/4207965/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/9/90/4207965/avatar.jpg.320x320px.jpg",
     "tokens": {
       "m_ori": 32,
       "indigenous": 20,
@@ -5198,9 +5211,9 @@
     },
     "relevancy": 306,
     "index": 136,
-    "x": 52,
-    "y": 246,
-    "cluster": 18
+    "x": 28,
+    "y": -44,
+    "cluster": 22
   },
   {
     "name": "Donald Samulack",
@@ -5272,11 +5285,11 @@
     },
     "relevancy": 320,
     "index": 137,
-    "x": -189,
-    "y": 119,
-    "cluster": 26
+    "x": -38,
+    "y": 36,
+    "cluster": 6
   },
-  {"name": "Solange Santos", "company": "SciELO", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 138, "x": 13, "y": -563, "cluster": 28},
+  {"name": "Solange Santos", "company": "SciELO", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 138, "x": -169, "y": -369, "cluster": 11},
   {
     "name": "Jodi Schneider",
     "company": "University of Illinois Urbana-Champaign",
@@ -5287,9 +5300,9 @@
     "tokens": {"reducing": 5, "inadvertent": 5, "retracted": 5, "agenda": 5, "infoqualitylab": 5, "risr": 5, "spread": 5, "shaping": 4, "implementation": 4, "project": 3, "science": 3, "research": 2},
     "relevancy": 51,
     "index": 139,
-    "x": 265,
-    "y": 217,
-    "cluster": 1
+    "x": 247,
+    "y": 205,
+    "cluster": 0
   },
   {
     "name": "Peter Simon",
@@ -5297,7 +5310,7 @@
     "position": "Vice President, Product Management",
     "location": null,
     "url": null,
-    "image": "https://avatars.sched.co/3/17/10527884/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/3/17/10527884/avatar.jpg.320x320px.jpg",
     "tokens": {
       "president": 21,
       "simon": 19,
@@ -5369,9 +5382,9 @@
     },
     "relevancy": 374,
     "index": 140,
-    "x": -50,
-    "y": 230,
-    "cluster": 29
+    "x": 18,
+    "y": 15,
+    "cluster": 18
   },
   {
     "name": "Natasha Simons",
@@ -5379,7 +5392,7 @@
     "position": "Associate Director, Data and Services",
     "location": "Brisbane, Australia",
     "url": "https://ardc.edu.au",
-    "image": "https://avatars.sched.co/d/52/6896502/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/d/52/6896502/avatar.jpg.320x320px.jpg",
     "tokens": {
       "natasha": 5,
       "cloud": 5,
@@ -5420,9 +5433,9 @@
     },
     "relevancy": 162,
     "index": 141,
-    "x": -170,
-    "y": 333,
-    "cluster": 29
+    "x": 251,
+    "y": -127,
+    "cluster": 14
   },
   {
     "name": "Nancy Sims",
@@ -5430,7 +5443,7 @@
     "position": "Copyright Program Librarian",
     "location": "Minneapolis, MN",
     "url": null,
-    "image": "https://avatars.sched.co/9/41/143175/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/9/41/143175/avatar.jpg.320x320px.jpg",
     "tokens": {
       "copyright": 9,
       "nancy": 5,
@@ -5452,9 +5465,9 @@
     },
     "relevancy": 83,
     "index": 142,
-    "x": 264,
-    "y": 74,
-    "cluster": 1
+    "x": 181,
+    "y": 285,
+    "cluster": 7
   },
   {
     "name": "Rob Smith",
@@ -5464,11 +5477,11 @@
     "url": "ebsco.com",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 143,
-    "x": -173,
-    "y": -416,
-    "cluster": 8
+    "x": -330,
+    "y": -259,
+    "cluster": 29
   },
   {
     "name": "Heather Staines",
@@ -5476,13 +5489,13 @@
     "position": "Independent Consultant",
     "location": "Greater New York City Area",
     "url": null,
-    "image": "https://avatars.sched.co/4/f9/5607480/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/f9/5607480/avatar.jpg.320x320px.jpg",
     "tokens": {"anything": 5, "karaoke": 5, "transfer": 5, "preservation": 5, "future": 4, "communication": 3, "journal": 3, "digital": 3, "scholarly": 3},
     "relevancy": 36,
     "index": 144,
-    "x": -207,
-    "y": -96,
-    "cluster": 16
+    "x": 298,
+    "y": -90,
+    "cluster": 14
   },
   {
     "name": "Shelley Stall",
@@ -5490,7 +5503,7 @@
     "position": "Sr Director, Data Leadership",
     "location": "Washington, DC",
     "url": "https://agu.org",
-    "image": "https://avatars.sched.co/3/d5/6530001/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/3/d5/6530001/avatar.jpg.320x320px.jpg",
     "tokens": {
       "4071455": 5,
       "shelley": 16,
@@ -5584,9 +5597,9 @@
     },
     "relevancy": 477,
     "index": 145,
-    "x": 32,
-    "y": 34,
-    "cluster": 2
+    "x": 109,
+    "y": 90,
+    "cluster": 18
   },
   {
     "name": "Christine Stohn",
@@ -5594,7 +5607,7 @@
     "position": "Dir Product Management",
     "location": "christine.stohn",
     "url": "https://exlibrisgroup.com/",
-    "image": "https://avatars.sched.co/7/92/433400/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/7/92/433400/avatar.jpg.320x320px.jpg",
     "tokens": {
       "christine": 22,
       "libris": 9,
@@ -5635,9 +5648,9 @@
     },
     "relevancy": 166,
     "index": 146,
-    "x": -13,
-    "y": 326,
-    "cluster": 20
+    "x": 210,
+    "y": 107,
+    "cluster": 0
   },
   {
     "name": "Paul Stokes",
@@ -5645,7 +5658,7 @@
     "position": "Product Manager",
     "location": "UK",
     "url": "http://www.jisc.ac.uk",
-    "image": "https://avatars.sched.co/0/c6/12260597/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/0/c6/12260597/avatar.jpg.320x320px.jpg",
     "tokens": {
       "preservation": 42,
       "coalition": 9,
@@ -5679,9 +5692,9 @@
     },
     "relevancy": 180,
     "index": 147,
-    "x": -301,
-    "y": 162,
-    "cluster": 17
+    "x": 333,
+    "y": 7,
+    "cluster": 24
   },
   {
     "name": "Hayley Sund",
@@ -5691,11 +5704,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 148,
-    "x": -280,
-    "y": -269,
-    "cluster": 7
+    "x": -401,
+    "y": -66,
+    "cluster": 21
   },
   {
     "name": "Christine Suver",
@@ -5703,7 +5716,7 @@
     "position": "Director Research Governance and Ethics",
     "location": "USA",
     "url": "https://sagebionetworks.org/",
-    "image": "https://avatars.sched.co/3/df/12260564/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/3/df/12260564/avatar.jpg.320x320px.jpg",
     "tokens": {
       "governance": 20,
       "research": 16,
@@ -5774,9 +5787,9 @@
     },
     "relevancy": 383,
     "index": 149,
-    "x": -104,
-    "y": -78,
-    "cluster": 3
+    "x": -174,
+    "y": -79,
+    "cluster": 4
   },
   {
     "name": "Patrick Sweeney",
@@ -5786,11 +5799,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 150,
-    "x": -107,
-    "y": 429,
-    "cluster": 20
+    "x": -124,
+    "y": 421,
+    "cluster": 8
   },
   {
     "name": "Carolina Tanigushi",
@@ -5798,13 +5811,13 @@
     "position": "Jr Visual Programmer",
     "location": "S o Paulo, Brazil",
     "url": null,
-    "image": "https://avatars.sched.co/b/1a/10602533/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/b/1a/10602533/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 151,
-    "x": -85,
-    "y": -501,
-    "cluster": 9
+    "x": -196,
+    "y": -299,
+    "cluster": 19
   },
   {
     "name": "Randy Townsend",
@@ -5812,7 +5825,7 @@
     "position": "Director, Publishing Operations",
     "location": null,
     "url": "https://ethicsandequitycenter.org/randy-townsend/",
-    "image": "https://avatars.sched.co/4/cc/7891200/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/cc/7891200/avatar.jpg.320x320px.jpg",
     "tokens": {
       "randy": 22,
       "serve": 10,
@@ -5879,9 +5892,9 @@
     },
     "relevancy": 305,
     "index": 152,
-    "x": -142,
-    "y": 156,
-    "cluster": 21
+    "x": 43,
+    "y": 169,
+    "cluster": 12
   },
   {
     "name": "Brooks Travis",
@@ -5889,12 +5902,12 @@
     "position": "Library IT Coordinator",
     "location": "Springfield, Missouri Area",
     "url": "https://libraries.missouristate.edu",
-    "image": "https://avatars.sched.co/2/b2/4015595/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/2/b2/4015595/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 153,
-    "x": -385,
-    "y": -16,
+    "x": -386,
+    "y": 168,
     "cluster": 10
   },
   {
@@ -5903,13 +5916,13 @@
     "position": "Affiliate Associate",
     "location": null,
     "url": "https://www.linkedin.com/in/michelleurberg/",
-    "image": "https://avatars.sched.co/a/c3/4872753/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/a/c3/4872753/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 154,
-    "x": 261,
-    "y": -491,
-    "cluster": 27
+    "x": 191,
+    "y": -353,
+    "cluster": 17
   },
   {
     "name": "Ken Varnum",
@@ -5917,7 +5930,7 @@
     "position": "Senior Program Manager",
     "location": "Ann Arbor, MI",
     "url": "https://www.varnum.org/",
-    "image": "https://avatars.sched.co/8/3e/3154174/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/8/3e/3154174/avatar.jpg.320x320px.jpg",
     "tokens": {
       "library": 11,
       "interface": 9,
@@ -5938,9 +5951,9 @@
     },
     "relevancy": 80,
     "index": 155,
-    "x": 81,
-    "y": 401,
-    "cluster": 15
+    "x": 303,
+    "y": 184,
+    "cluster": 0
   },
   {
     "name": "Julie Frick Wade",
@@ -5950,11 +5963,11 @@
     "url": "mla.org",
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 156,
-    "x": -231,
-    "y": -399,
-    "cluster": 8
+    "x": -369,
+    "y": -183,
+    "cluster": 29
   },
   {
     "name": "Clarissa West-White",
@@ -5962,15 +5975,15 @@
     "position": "Reference Instructor/Research Librarian",
     "location": "Daytona Beach, Florida",
     "url": "https://drcwestwhite.wixsite.com/drcwestwhite",
-    "image": "https://avatars.sched.co/4/37/10602536/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/4/37/10602536/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 157,
-    "x": 490,
-    "y": -244,
-    "cluster": 0
+    "x": 431,
+    "y": -62,
+    "cluster": 28
   },
-  {"name": "Kristen Wilson", "company": "Index Data", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 158, "x": -324, "y": 257, "cluster": 14},
+  {"name": "Kristen Wilson", "company": "Index Data", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 158, "x": -241, "y": 356, "cluster": 2},
   {
     "name": "Rachel J. Wittmann",
     "company": "Marriott Library, University of Utah",
@@ -5979,11 +5992,11 @@
     "url": null,
     "image": null,
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 159,
-    "x": 79,
-    "y": -562,
-    "cluster": 28
+    "x": -47,
+    "y": -385,
+    "cluster": 15
   },
   {
     "name": "Deborah Wyatt",
@@ -5991,15 +6004,15 @@
     "position": "Vice President, Global Academic & Society Relations",
     "location": "Australia",
     "url": "cactusglobal.com",
-    "image": "https://avatars.sched.co/6/0b/12282783/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/6/0b/12282783/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 160,
-    "x": 403,
-    "y": 89,
-    "cluster": 25
+    "x": 296,
+    "y": 297,
+    "cluster": 3
   },
-  {"name": "Lesley Wyborn", "company": null, "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 0, "index": 161, "x": -339, "y": -179, "cluster": 16},
+  {"name": "Lesley Wyborn", "company": null, "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 100, "index": 161, "x": -434, "y": 46, "cluster": 21},
   {
     "name": "Richard Wynne",
     "company": "Rescognito",
@@ -6038,9 +6051,9 @@
     },
     "relevancy": 146,
     "index": 162,
-    "x": 132,
-    "y": -96,
-    "cluster": 11
+    "x": 249,
+    "y": -206,
+    "cluster": 14
   },
   {
     "name": "Andromeda Yelton",
@@ -6087,9 +6100,9 @@
     },
     "relevancy": 147,
     "index": 163,
-    "x": 154,
-    "y": 262,
-    "cluster": 18
+    "x": 266,
+    "y": 87,
+    "cluster": 24
   },
   {
     "name": "Ralph Youngen",
@@ -6097,12 +6110,12 @@
     "position": "Sr. Director, Digital Strategy",
     "location": "Washington, DC",
     "url": null,
-    "image": "https://avatars.sched.co/2/da/6307938/avatar.jpg.50x50px.jpg",
+    "image": "https://avatars.sched.co/2/da/6307938/avatar.jpg.320x320px.jpg",
     "tokens": {},
-    "relevancy": 0,
+    "relevancy": 100,
     "index": 164,
-    "x": -142,
-    "y": -469,
-    "cluster": 9
+    "x": -256,
+    "y": -302,
+    "cluster": 19
   }
 ]

@@ -1,10 +1,10 @@
 import { Graphics } from 'pixi.js'
 import { contourDensity, extent } from 'd3'
 
-const color = 0x999999
-const contourWidth = 4
-const cellSize = 15
-const bandwidth = 100
+const color = 0xFFFFFF
+const contourWidth = 1
+const cellSize = 1
+const bandwidth = 30
 const thresholds = 30
 
 export default () => {
