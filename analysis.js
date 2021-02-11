@@ -91,8 +91,11 @@ const analysis = nodes => {
                 return tokens
             }, {})
 
-        // node.relevancy = Object.values(node.tokens).reduce((a, b) => a + b)
-        // TO CHECK
+        if (Object.values(node.tokens).length > 0)
+            node.relevancy = Object.values(node.tokens).reduce((a, b) => a + b)
+        else
+            node.relevancy = 0
+
     })
 
     // Set links
@@ -145,9 +148,6 @@ const analysis = nodes => {
                 }
             })
 
-            // TO CHECK
-            // it throuws an error
-            //
             const tokensSorted = Object.entries(link.tokens)
                 .sort((a, b) => b[1] - a[1])
 
