@@ -99,7 +99,7 @@ Promise.all([
 
     // Zoom Min and Max
 
-    s.zoomMin = scale * .9 // reduction is to create a margin
+    s.zoomMin = scale * 1.1 // reduction is to create a margin
     s.zoomMax = 15
 
     // Vieport
@@ -136,7 +136,7 @@ Promise.all([
     keywords_close()
     keywords_distant()
     // clusters()
-    fps()
+    // fps()
     search()
 
     // Prevent pinch gesture in Chrome
