@@ -8,7 +8,7 @@ export default () => {
     s.viewport.addChild(stage)
 
     s.links
-        // .filter(l => l.value > .2)
+        .filter(l => l.value > .8)
         .forEach(({ source, target, value }) => {
 
             stage.lineStyle(value, 0xFFFFFF)

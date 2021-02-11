@@ -93,7 +93,7 @@ Promise.all([
     // Zoom Min and Max
 
     s.zoomMin = scale * .9 // reduction is to create a margin
-    s.zoomMax = 4
+    s.zoomMax = 5
 
     // Vieport
 
@@ -109,7 +109,7 @@ Promise.all([
     s.viewport.on('zoomed', e => {
         const scale = e.viewport.lastViewport.scaleX
         e.viewport.children.find(child => child.name == 'contours').alpha = zoomOut(scale)
-        // e.viewport.children.find(child => child.name == 'nodes').alpha = zoomIn(scale)
+        e.viewport.children.find(child => child.name == 'nodes').alpha = zoomIn(scale)
         e.viewport.children.find(child => child.name == 'keywords_close').alpha = zoomIn(scale)
         e.viewport.children.find(child => child.name == 'keywords_distant').alpha = zoomOut(scale)
     })

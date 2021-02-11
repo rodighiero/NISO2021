@@ -13,14 +13,14 @@ const splitInTwo = string => {
 
 const color = {
     on: 0xFEDD00,
-    off: 0xc7d1c2,
+    off: 0x333333,
 }
 
 
 export default () => {
 
     const stage = new Graphics()
-    // stage.alpha = 0
+    stage.alpha = 0
     stage.name = 'nodes'
     s.viewport.addChild(stage)
 
@@ -30,13 +30,10 @@ export default () => {
 
         // Circle
 
+        const side = 20
+
         if (node.image !== null || node.name.includes('Suver')) {
 
-            console.log()
-            console.log(node.name)
-            console.log(node.image)
-
-            const side = 20
 
             let texture = Texture.from(node.image)
             let sprite = new Sprite(texture)
@@ -46,33 +43,36 @@ export default () => {
             sprite.interactiveChildren = false
             stage.addChild(sprite)
 
-            // let mask = new Graphics()
-            // mask.beginFill(color.off, 1)
-            // mask.drawCircle(0, 0, 100)
-            // // mask.endFill()
-            // // mask.x = node.x
-            // mask.position = new Point(node.x, node.y)
+            let mask = new Graphics()
+            stage.addChild(mask);
+            mask.beginFill(color.off, 1)
+            mask.drawCircle(0, 0, side / 2)
+            mask.position = new Point(node.x, node.y)
+            mask.interactiveChildren = false
 
-            // sprite.mask = mask
+            sprite.mask = mask
+
+        } else {
+
+            node.circle = new Graphics()
+            node.circle.beginFill(color.off, 1)
+            node.circle.drawCircle(0, 0, side / 2)
+            node.circle.endFill()
+            node.circle.tint = color.off
+            node.circle.position = new Point(node.x, node.y)
+            node.circle.hitArea = new Circle(0, 0, s.distance)
+            node.circle.interactive = true
+
+            stage.addChild(node.circle)
 
         }
 
         const size = 4
 
-        // node.circle = new Graphics()
-        // node.circle.beginFill(color.off, 1)
-        // node.circle.drawCircle(0, 0, size)
-        // node.circle.endFill()
-        // node.circle.tint = color.off
-        // node.circle.position = new Point(node.x, node.y)
-        // node.circle.hitArea = new Circle(0, 0, s.distance)
-        // node.circle.interactive = true
-
-        // stage.addChild(node.circle)
 
         // Label
 
-        const scale = .2
+        const scale = .15
         const [nA, nB] = splitInTwo(node.name)
 
         node.text = new BitmapText(
@@ -85,7 +85,7 @@ export default () => {
             })
 
         node.text.scale.set(scale)
-        node.text.position.set(node.x - node.text.width / 2, node.y + size + 2)
+        node.text.position.set(node.x - node.text.width / 2, node.y + size + 7)
 
         stage.addChild(node.text)
 
