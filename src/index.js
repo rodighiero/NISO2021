@@ -25,10 +25,12 @@ import stats from './interface/stats'
 
 import fontXML from './assets/Lato.fnt'
 import fontPNG from './assets/Lato.png'
+import logoPNG from './assets/logo.png'
 
 import linksJSON from './data/links.json'
 import nodesJSON from './data/nodes.json'
 import tripletsJSON from './data/triplets.json'
+
 
 // Global variables
 
@@ -47,8 +49,13 @@ Promise.all([
     json(tripletsJSON),
     xml(fontXML),
     image(fontPNG),
+    image(logoPNG),
 
-]).then(([linksData, nodesData, tripletsData, xml, png]) => {
+]).then(([linksData, nodesData, tripletsData, xml, png, logo]) => {
+
+    logo.setAttribute("style", "width: 250px;");
+    document.body.children[0].prepend(logo)
+    
 
     s.links = linksData; console.log('links', s.links.length)
     s.nodes = nodesData; console.log('nodes', s.nodes.length)

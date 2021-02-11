@@ -15,7 +15,7 @@
 }
 
 body, html {
-	color: #c7d1c2;
+	color: #FFFFFF;
 	overflow: hidden;
 	margin: 0;
 }
@@ -28,7 +28,7 @@ canvas {
 }
 
 a {
-	color: #c7d1c2;
+	color: #FFFFFF;
 }
 
 /******************************************************************************
@@ -36,7 +36,7 @@ a {
 ******************************************************************************/
 
 #focus, #title, #search, #warning {
-	background-color: rgba(0, 0, 0, .7);
+	background-color: rgba(122, 196, 246, 0.6);
 	position: absolute;
 	border: none;
 	padding: 10px;
@@ -68,9 +68,9 @@ input {
 	font-size: 100%;
 	margin: 5px 0;
 	font-weight: normal;
-	background-color: #333;
+	background-color: #70c4f6;
 	border: 0;
-	color: #999;
+	color: #FFF;
 }
 
 input, input:before, input:after {
@@ -117,7 +117,8 @@ p {
 }
 
 .inverted {
-	background-color: #c7d1c2;
-	color: black;
+	padding-top: 5px;
+	/* background-color: #FFFFFF; */
+	color: FFFFFF;
 	white-space: nowrap;
 }
