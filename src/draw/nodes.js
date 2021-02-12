@@ -23,56 +23,41 @@ export default () => {
 
     s.nodes.forEach(node => {
 
-
-        // Circle
-
         const side = 20
+        const thickness = .5
 
-        node.contour = new Graphics()
-        node.contour.lineStyle(1, 0xffffff, 1);
-        node.contour.drawCircle(0, 0, side / 2)
-        node.contour.position = new Point(node.x, node.y)
-        node.contour.interactive = false
+        node.circle = new Graphics()
+        node.circle.lineStyle(thickness, '0xFFFFFF', 1)
+        node.circle.beginFill(color, 1)
+        node.circle.drawCircle(0, 0, side / 2)
+        node.circle.endFill()
+        node.circle.position = new Point(node.x, node.y)
+        stage.addChild(node.circle)
 
-        stage.addChild(node.contour)
-
-        if (node.image !== null || node.name.includes('Suver')) {
-
-
+        if (node.image) {
             let texture = Texture.from(node.image)
-            let sprite = new Sprite(texture)
-            sprite.width = side
-            sprite.height = side
-            sprite.position = new Point(node.x - side / 2, node.y - side / 2)
-            sprite.interactiveChildren = false
-            stage.addChild(sprite)
+            node.circle = new Sprite(texture)
+            node.circle.width = side
+            node.circle.height = side
+            node.circle.position = new Point(node.x - side / 2, node.y - side / 2)
+            stage.addChild(node.circle)
 
             let mask = new Graphics()
-            stage.addChild(mask);
             mask.beginFill(color, 1)
-            mask.drawCircle(0, 0, side / 2)
+            mask.drawCircle(0, 0, (side - thickness) / 2)
             mask.position = new Point(node.x, node.y)
-            mask.interactiveChildren = false
-
-            sprite.mask = mask
-
-        } else {
-
-            node.circle = new Graphics()
-            node.circle.beginFill(color, 1)
-            node.circle.drawCircle(0, 0, side / 2)
-            node.circle.position = new Point(node.x, node.y)
-            node.circle.hitArea = new Circle(0, 0, s.distance)
-            node.circle.interactive = true
-
-            stage.addChild(node.circle)
+            stage.addChild(mask);
+            node.circle.mask = mask
 
         }
 
-        const size = 4
+        node.circle.hitArea = new Circle(0, 0, s.distance)
+        node.circle.interactive = true
 
 
         // Label
+
+        const size = 4
 
         const scale = .15
         const [nA, nB] = splitInTwo(node.name)
@@ -82,7 +67,7 @@ export default () => {
             {
                 fontName: 'Lato',
                 fontSize: '21',
-                fill: color.off,
+                fill: '0xFFFFFF',
                 align: 'center',
             })
 
@@ -94,22 +79,23 @@ export default () => {
         // Set information panel & set on circles
 
         // node.circle.mouseover = mouseData => {
-        //     mouseover(node)
-        //     s.nodes.filter(peer => node.peers.includes(peer.id))
-        //         .forEach(node => {
-        //             node.circle.tint = color.on
-        //             node.text.tint = color.on
-        //         })
+        //     console.log(node.name)
+        //     mouseover('hey', node)
+        //     //     s.nodes.filter(peer => node.peers.includes(peer.id))
+        //     //         .forEach(node => {
+        //     //             node.circle.tint = color.on
+        //     //             node.text.tint = color.on
+        //     //         })
         // }
 
-        // Clean information panel & set off circles
+        // // Clean information panel & set off circles
 
         // node.circle.mouseout = mouseData => {
         //     mouseout(node)
-        //     s.nodes.forEach(node => {
-        //         node.circle.tint = color.off
-        //         node.text.tint = color.off
-        //     })
+        //     //     s.nodes.forEach(node => {
+        //     //         node.circle.tint = color.off
+        //     //         node.text.tint = color.off
+        //     //     })
         // }
 
     })

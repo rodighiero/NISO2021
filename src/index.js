@@ -19,9 +19,7 @@ import keywords_close from './draw/keywords_close.js'
 import keywords_distant from './draw/keywords_distant.js'
 import nodes from './draw/nodes.js'
 
-import fps from './interface/fps.js'
 import search from './interface/search'
-import stats from './interface/stats'
 
 import fontXML from './assets/Lato.fnt'
 import fontPNG from './assets/Lato.png'
@@ -55,7 +53,7 @@ Promise.all([
 
     logo.setAttribute("style", "width: 250px;");
     document.body.children[0].prepend(logo)
-    
+
 
     s.links = linksData; console.log('links', s.links.length)
     s.nodes = nodesData; console.log('nodes', s.nodes.length)
@@ -110,19 +108,26 @@ Promise.all([
 
     // Transparency on zoom
 
-    const zoomOut = scaleLinear().domain([s.zoomMin, 2]).range([1, 0]) // Visible when zooming out
-    const zoomIn = scaleLinear().domain([s.zoomMin, 2]).range([0, 1]) // Visible when zooming in
+    const zoomOut = scaleLinear().domain([s.zoomMin, 3]).range([1, 0]) // Visible when zooming out
+    const zoomIn = scaleLinear().domain([s.zoomMin, 3]).range([0, 1]) // Visible when zooming in
 
     s.viewport.on('zoomed', e => {
-        const scale = e.viewport.lastViewport.scaleX
-        e.viewport.children.find(child => child.name == 'contours').alpha = zoomOut(scale)
-        e.viewport.children.find(child => child.name == 'nodes').alpha = zoomIn(scale)
-        e.viewport.children.find(child => child.name == 'keywords_close').alpha = zoomIn(scale)
-        e.viewport.children.find(child => child.name == 'keywords_distant').alpha = zoomOut(scale)
+        let scaleIn = zoomIn(e.viewport.lastViewport.scaleX)
+        let scaleOut = zoomOut(e.viewport.lastViewport.scaleX)
+
+        if (scaleIn > 1)
+            scaleIn = 1
+
+        e.viewport.children.find(child => child.name == 'nodes').alpha = scaleIn
+        e.viewport.children.find(child => child.name == 'keywords_close').alpha = scaleIn
+
+        e.viewport.children.find(child => child.name == 'contours').alpha = scaleOut
+        e.viewport.children.find(child => child.name == 'keywords_distant').alpha = scaleOut
+
     })
 
     // Font loader
-    
+
     BitmapFont.install(xml, Texture.from(png))
 
     /**
