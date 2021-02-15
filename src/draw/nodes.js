@@ -1,4 +1,4 @@
-import { BitmapText, Circle, Graphics, Point, Texture, Sprite } from 'pixi.js'
+import { BitmapText, Circle, Graphics, Point, Texture, Sprite, Loader, Rectangle } from 'pixi.js'
 
 import { mouseover, mouseout } from '../interface/mouseover'
 
@@ -16,43 +16,63 @@ const color = '0x70c4f6'
 export default () => {
 
     const stage = new Graphics()
-    stage.alpha = 0
+    // stage.alpha = 0
     stage.name = 'nodes'
     s.viewport.addChild(stage)
+
+    const loader = Loader.shared
+
+    s.nodes.forEach(node => {
+        if (node.image)
+            loader.add('index_' + node.index, node.image)
+    })
 
 
     s.nodes.forEach(node => {
 
         const side = 20
-        const thickness = .5
-
-        node.circle = new Graphics()
-        node.circle.lineStyle(thickness, '0xFFFFFF', 1)
-        node.circle.beginFill(color, 1)
-        node.circle.drawCircle(0, 0, side / 2)
-        node.circle.endFill()
-        node.circle.position = new Point(node.x, node.y)
-        stage.addChild(node.circle)
+        const thickness = 5
 
         if (node.image) {
-            let texture = Texture.from(node.image)
-            node.circle = new Sprite(texture)
-            node.circle.width = side
-            node.circle.height = side
-            node.circle.position = new Point(node.x - side / 2, node.y - side / 2)
-            stage.addChild(node.circle)
 
-            let mask = new Graphics()
-            mask.beginFill(color, 1)
-            mask.drawCircle(0, 0, (side - thickness) / 2)
-            mask.position = new Point(node.x, node.y)
-            stage.addChild(mask);
-            node.circle.mask = mask
+            loader.load(function (loader, resources) {
+                const texture = resources['index_' + node.index].texture
+                // console.log(texture)
 
+                const width = texture.width
+                const height = texture.height
+                const rectangel = new Rectangle(width / 2, height / 2, width, height)
+                console.log(rectangel)
+
+                texture.orig = new Rectangle(width / 2, height / 2, width, height)
+                texture.rotate = 12
+
+                const circle = new Graphics()
+                const options = {
+                    texture: texture
+                }
+                circle.beginTextureFill(options)
+                circle.lineStyle(thickness, '0xFFFFFF', 1)
+                circle.drawCircle(0, 0, width / 2)
+                circle.endFill()
+                circle.width = side
+                circle.height = side
+                circle.position = new Point(node.x, node.y)
+                stage.addChild(circle)
+            })
+
+        } else {
+            const circle = new Graphics()
+            circle.lineStyle(.5, '0xFFFFFF', 1)
+            circle.beginFill(color, 1)
+            circle.drawCircle(0, 0, side / 2)
+            circle.endFill()
+            circle.position = new Point(node.x, node.y)
+            stage.addChild(circle)
         }
 
-        node.circle.hitArea = new Circle(0, 0, s.distance)
-        node.circle.interactive = true
+        // node.circle.hitArea = new Circle(0, 0, s.distance)
+        // node.circle.interactive = true
 
 
         // Label
