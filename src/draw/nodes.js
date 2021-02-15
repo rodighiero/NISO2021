@@ -16,7 +16,7 @@ const color = '0x70c4f6'
 export default () => {
 
     const stage = new Graphics()
-    // stage.alpha = 0
+    stage.alpha = 0
     stage.name = 'nodes'
     s.viewport.addChild(stage)
 
@@ -37,24 +37,17 @@ export default () => {
 
             loader.load(function (loader, resources) {
                 const texture = resources['index_' + node.index].texture
-                // console.log(texture)
-
                 const width = texture.width
                 const height = texture.height
-                const rectangel = new Rectangle(width / 2, height / 2, width, height)
-                console.log(rectangel)
-
-                texture.orig = new Rectangle(width / 2, height / 2, width, height)
-                texture.rotate = 12
-
                 const circle = new Graphics()
                 const options = {
                     texture: texture
                 }
                 circle.beginTextureFill(options)
                 circle.lineStyle(thickness, '0xFFFFFF', 1)
-                circle.drawCircle(0, 0, width / 2)
+                circle.drawCircle(width / 2, width / 2, width / 2)
                 circle.endFill()
+                circle.pivot.set(width / 2, width / 2); 
                 circle.width = side
                 circle.height = side
                 circle.position = new Point(node.x, node.y)
