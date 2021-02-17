@@ -16,7 +16,7 @@ export default () => {
     const maxValue = max(s.triplets.map(t => t.tokens[0][1]))
     
     s.triplets
-        // .filter(t => t.tokens[0][1] < maxValue * .2)
+        .filter(t => t.tokens[0][1] < maxValue * .8)
         .forEach(triplet => {
 
             const token = triplet.tokens.slice(0, 1)
@@ -33,7 +33,7 @@ export default () => {
                 })
 
             const value = token[0][1]
-            const base = 10
+            const base = 5
             const magnitude = .01
             text.scale.set((value + base) * magnitude)
 

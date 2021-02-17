@@ -4,8 +4,8 @@ import { contourDensity, extent } from 'd3'
 const color = 0xFFFFFF
 const contourWidth = .5
 const cellSize = 1
-const bandwidth = 25
-const thresholds = 30
+const bandwidth = 30
+const thresholds = 15
 
 export default () => {
 

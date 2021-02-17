@@ -30,6 +30,8 @@ export default () => {
 
     s.nodes.forEach(node => {
 
+        // Set circle
+
         const side = 20
         const thickness = 5
 
@@ -39,77 +41,53 @@ export default () => {
                 const texture = resources['index_' + node.index].texture
                 const width = texture.width
                 const height = texture.height
-                const circle = new Graphics()
-                const options = {
-                    texture: texture
-                }
-                circle.beginTextureFill(options)
-                circle.lineStyle(thickness, '0xFFFFFF', 1)
-                circle.drawCircle(width / 2, width / 2, width / 2)
-                circle.endFill()
-                circle.pivot.set(width / 2, width / 2); 
-                circle.width = side
-                circle.height = side
-                circle.position = new Point(node.x, node.y)
-                stage.addChild(circle)
+                const options = { texture: texture }
+                node.circle = new Graphics()
+                node.circle.lineStyle(thickness, '0xFFFFFF', 1)
+                node.circle.beginTextureFill(options)
+                node.circle.drawCircle(width / 2, width / 2, width / 2)
+                node.circle.endFill()
+                node.circle.pivot.set(width / 2, width / 2);
+                node.circle.width = side
+                node.circle.height = side
+                node.circle.position = new Point(node.x, node.y)
+                node.circle.interactive = false
+                stage.addChild(node.circle)
             })
 
         } else {
-            const circle = new Graphics()
-            circle.lineStyle(.5, '0xFFFFFF', 1)
-            circle.beginFill(color, 1)
-            circle.drawCircle(0, 0, side / 2)
-            circle.endFill()
-            circle.position = new Point(node.x, node.y)
-            stage.addChild(circle)
+            node.circle = new Graphics()
+            node.circle.lineStyle(.5, '0xFFFFFF', 1)
+            node.circle.beginFill(color, 1)
+            node.circle.drawCircle(0, 0, side / 2)
+            node.circle.endFill()
+            node.circle.position = new Point(node.x, node.y)
+            node.circle.interactive = false
+            stage.addChild(node.circle)
         }
 
-        // node.circle.hitArea = new Circle(0, 0, s.distance)
-        // node.circle.interactive = true
+        // Set hit area
+        
+        const circle = new Graphics()
+        circle.beginFill(color, 0)
+        circle.drawCircle(0, 0, side / 2)
+        circle.endFill()
+        circle.position = new Point(node.x, node.y)
+        circle.interactive = true
+        circle.hitArea = new Circle(0, 0, s.distance)
+        circle.mouseover = mouseData => mouseover(node)
+        circle.mouseout = mouseData => mouseout(node)
+        stage.addChild(circle)
 
-
-        // Label
+        // Set label
 
         const size = 4
-
         const scale = .15
         const [nA, nB] = splitInTwo(node.name)
-
-        node.text = new BitmapText(
-            `${nA}\n${nB}`,
-            {
-                fontName: 'Lato',
-                fontSize: '21',
-                fill: '0xFFFFFF',
-                align: 'center',
-            })
-
+        node.text = new BitmapText(`${nA}\n${nB}`, { fontName: 'Lato', fontSize: '21', fill: '0xFFFFFF', align: 'center' })
         node.text.scale.set(scale)
         node.text.position.set(node.x - node.text.width / 2, node.y + size + 7)
-
         stage.addChild(node.text)
-
-        // Set information panel & set on circles
-
-        // node.circle.mouseover = mouseData => {
-        //     console.log(node.name)
-        //     mouseover('hey', node)
-        //     //     s.nodes.filter(peer => node.peers.includes(peer.id))
-        //     //         .forEach(node => {
-        //     //             node.circle.tint = color.on
-        //     //             node.text.tint = color.on
-        //     //         })
-        // }
-
-        // // Clean information panel & set off circles
-
-        // node.circle.mouseout = mouseData => {
-        //     mouseout(node)
-        //     //     s.nodes.forEach(node => {
-        //     //         node.circle.tint = color.off
-        //     //         node.text.tint = color.off
-        //     //     })
-        // }
 
     })
 

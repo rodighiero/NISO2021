@@ -43,7 +43,7 @@ const analysis = nodes => {
     // Singularize
 
     const inflector = new natural.NounInflector()
-    const safeList = ['']
+    const safeList = ['humanities']
 
     nodes.forEach((node, i) => {
         console.log('Singularizing author #', i)
@@ -58,14 +58,16 @@ const analysis = nodes => {
 
     // Cleaning
 
-    const stopWords = ['http']
-
+    const stopWords = ['http', 'better', 'serve', 'year', 'across', 'according', 'prior', 'within', 'field', 'including', 'joining', 'served', 'hold', 'working', 'conference', 'begin']
+    
     nodes.forEach((node, i) => {
         console.log('Cleaning author #', i)
-        node.tokens = sw.removeStopwords(node.tokens, sw.en.concat(stopWords))
+        node.tokens = sw.removeStopwords(node.tokens, sw.en.concat(stopWords).concat(node.name.toLowerCase().split(' ')))
         // .filter(token => token.length > 4)
         // .filter(token => !parseInt(token))
     })
+
+    // return
 
     // TF-IDF
 
@@ -94,7 +96,7 @@ const analysis = nodes => {
         if (Object.values(node.tokens).length > 0)
             node.relevancy = Object.values(node.tokens).reduce((a, b) => a + b)
         else
-            node.relevancy = 100
+            node.relevancy = 1
 
     })
 
@@ -187,13 +189,13 @@ const analysis = nodes => {
 
     simulation
         .force('charge', reuse.forceManyBodyReuse()
-            .strength(50)
+            .strength(10)
             .distanceMax(30)
         )
         .force('collide', d3.forceCollide()
             .radius(30)
             .strength(.5)
-            .iterations(10)
+            .iterations(5)
         )
         .force('center', d3.forceCenter(0, 0))
 
