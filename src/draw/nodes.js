@@ -1,6 +1,6 @@
 import { BitmapText, Circle, Graphics, Point, Texture, Sprite, Loader, Rectangle } from 'pixi.js'
 
-import { mouseover, mouseout } from '../interface/mouseover'
+import { onClick } from '../interface/click'
 
 const splitInTwo = string => {
     const middle = Math.round(string.length / 2)
@@ -75,8 +75,11 @@ export default () => {
         circle.position = new Point(node.x, node.y)
         circle.interactive = true
         circle.hitArea = new Circle(0, 0, s.distance)
-        circle.mouseover = mouseData => mouseover(node)
-        circle.mouseout = mouseData => mouseout(node)
+        // circle.mouseover = mouseData => mouseover(node)
+        // circle.mouseout = mouseData => mouseout(node)
+        circle.buttonMode = true
+        // circle.on('pointerdown', onClick)
+        circle.click = mouseData => onClick(node)
         stage.addChild(circle)
 
         // Set label

@@ -134,7 +134,7 @@ Promise.all([
      * Rendering
      */
 
-    background()
+    // background()
     links()
     contours()
     nodes()

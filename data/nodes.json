@@ -1,6 +1,7 @@
 [
   {
     "name": "Cory Doctorow",
+    "panel": "https://sched.co/fMlc",
     "company": null,
     "position": "Writer",
     "location": null,
@@ -155,10 +156,11 @@
     "index": 0,
     "x": 186,
     "y": 193,
-    "cluster": 8
+    "cluster": 25
   },
   {
     "name": "Zeynep Tufekci",
+    "panel": "https://sched.co/fMnJ",
     "company": "University of North Carolina - Chapel Hill",
     "position": "Associate Professor",
     "location": null,
@@ -218,10 +220,11 @@
     "index": 1,
     "x": 257,
     "y": 2,
-    "cluster": 5
+    "cluster": 9
   },
   {
     "name": "Margaret Sraku-Lartey, PhD",
+    "panel": "https://sched.co/fMm6",
     "company": "CSIR-Forestry Research Institute of Ghana",
     "position": "Principal Librarian",
     "location": null,
@@ -315,10 +318,11 @@
     "index": 2,
     "x": 45,
     "y": -20,
-    "cluster": 11
+    "cluster": 20
   },
   {
     "name": "Heather Joseph",
+    "panel": "",
     "company": "Scholarly Publishing and Academic Resources Coalition",
     "position": "Executive Director",
     "location": "Washington, DC",
@@ -411,10 +415,11 @@
     "index": 3,
     "x": 167,
     "y": 77,
-    "cluster": 4
+    "cluster": 1
   },
   {
     "name": "Dr Norihiro Hagita",
+    "panel": "https://sched.co/fMmp",
     "company": "Japan Science & Technology Agency",
     "position": null,
     "location": null,
@@ -478,10 +483,11 @@
     "index": 4,
     "x": 79,
     "y": 152,
-    "cluster": 25
+    "cluster": 27
   },
   {
     "name": "Christopher Spalding",
+    "panel": "https://sched.co/fMnV",
     "company": "EBSCO",
     "position": "VP, Product Management Research Solutions",
     "location": "cspalding@ebsco.com",
@@ -541,10 +547,11 @@
     "index": 5,
     "x": 112,
     "y": 56,
-    "cluster": 4
+    "cluster": 1
   },
   {
     "name": "Btihaj Ajana",
+    "panel": "",
     "company": "King's College, London",
     "position": "Reader in Media and Digital Culture",
     "location": "UK",
@@ -593,10 +600,11 @@
     "index": 6,
     "x": -143,
     "y": 79,
-    "cluster": 2
+    "cluster": 14
   },
   {
     "name": "Liz Allen",
+    "panel": "https://sched.co/fMli",
     "company": "F1000, Taylor & Francis Group",
     "position": "Director of Strategic Initiatives",
     "location": null,
@@ -643,11 +651,26 @@
     "index": 7,
     "x": 178,
     "y": 135,
-    "cluster": 25
+    "cluster": 1
   },
-  {"name": "Shelley Allen", "company": "Emerald", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 8, "x": -367, "y": -173, "cluster": 3},
+  {
+    "name": "Shelley Allen",
+    "panel": "",
+    "company": "Emerald",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 8,
+    "x": -367,
+    "y": -173,
+    "cluster": 11
+  },
   {
     "name": "Tony Alves",
+    "panel": "",
     "company": "@OccupySTM",
     "position": "Scholarly Publishing Free Agent",
     "location": null,
@@ -694,10 +717,11 @@
     "index": 9,
     "x": -112,
     "y": -18,
-    "cluster": 16
+    "cluster": 8
   },
   {
     "name": "Michele Avissar-Whiting",
+    "panel": "https://sched.co/fMnP",
     "company": "Research Square",
     "position": "Operations Director",
     "location": null,
@@ -732,10 +756,11 @@
     "index": 10,
     "x": 157,
     "y": 245,
-    "cluster": 21
+    "cluster": 26
   },
   {
     "name": "Mohamed Ba-Essa",
+    "panel": "https://sched.co/fMm9",
     "company": "KAUST",
     "position": "Manager, Preservation & Digital Services",
     "location": null,
@@ -746,10 +771,11 @@
     "index": 11,
     "x": -152,
     "y": -325,
-    "cluster": 19
+    "cluster": 10
   },
   {
     "name": "Judy Bai",
+    "panel": "https://sched.co/fMmO",
     "company": "Digital Science",
     "position": "Director of Business Development",
     "location": "Shanghai",
@@ -817,10 +843,11 @@
     "index": 12,
     "x": 25,
     "y": 134,
-    "cluster": 22
+    "cluster": 19
   },
   {
     "name": "Jody Bailey",
+    "panel": "https://sched.co/fMnV",
     "company": "Emory University Libraries",
     "position": "Head of Scholarly Communications Office",
     "location": "jody.bailey",
@@ -831,10 +858,11 @@
     "index": 13,
     "x": -367,
     "y": 80,
-    "cluster": 12
+    "cluster": 15
   },
   {
     "name": "Caitlin Bakker",
+    "panel": "https://sched.co/fMnP",
     "company": "University of Minnesota",
     "position": "Research Services Librarian",
     "location": null,
@@ -880,10 +908,11 @@
     "index": 14,
     "x": 134,
     "y": -96,
-    "cluster": 17
+    "cluster": 20
   },
   {
     "name": "Daniel Bangert",
+    "panel": "https://sched.co/fMmm",
     "company": "Digital Repository of Ireland",
     "position": "National Open Research Coordinator",
     "location": "Dublin, Ireland",
@@ -911,10 +940,11 @@
     "index": 15,
     "x": 9,
     "y": 290,
-    "cluster": 28
+    "cluster": 24
   },
   {
     "name": "Davin Baragiotta",
+    "panel": "https://sched.co/fMnG",
     "company": "Consortium  rudit",
     "position": "IT Lead",
     "location": "Montr al",
@@ -944,10 +974,11 @@
     "index": 16,
     "x": 225,
     "y": -173,
-    "cluster": 17
+    "cluster": 13
   },
   {
     "name": "Barry Bealer",
+    "panel": "https://sched.co/fMn7",
     "company": "codemantra",
     "position": "Senior Vice President, Strategic Alliances",
     "location": null,
@@ -958,10 +989,11 @@
     "index": 17,
     "x": 339,
     "y": -172,
-    "cluster": 24
+    "cluster": 18
   },
   {
     "name": "Arianna Becerril-Garcia",
+    "panel": "https://sched.co/fMmm",
     "company": "Redalyc, Mexico",
     "position": null,
     "location": null,
@@ -972,10 +1004,11 @@
     "index": 18,
     "x": -253,
     "y": 239,
-    "cluster": 29
+    "cluster": 0
   },
   {
     "name": "Graham Bell",
+    "panel": "",
     "company": "EDItEUR",
     "position": "Executive Director",
     "location": "London, UK",
@@ -1012,10 +1045,11 @@
     "index": 19,
     "x": -181,
     "y": -95,
-    "cluster": 27
+    "cluster": 8
   },
   {
     "name": "Emma Booth",
+    "panel": "https://sched.co/fMlr",
     "company": "University of Manchester",
     "position": "E-Resources Metadata Specialist",
     "location": "Manchester, UK",
@@ -1074,10 +1108,11 @@
     "index": 20,
     "x": -34,
     "y": -155,
-    "cluster": 18
+    "cluster": 23
   },
   {
     "name": "Keith Breckenridge",
+    "panel": "https://sched.co/fMn1",
     "company": "The Wits Institute for Social and Economic Research",
     "position": null,
     "location": null,
@@ -1088,10 +1123,11 @@
     "index": 21,
     "x": -323,
     "y": -15,
-    "cluster": 3
+    "cluster": 4
   },
   {
     "name": "Curtis Brundy",
+    "panel": "https://sched.co/fMnb",
     "company": "Iowa State University",
     "position": "AUL Scholarly Communications and Collections",
     "location": "United States",
@@ -1121,11 +1157,26 @@
     "index": 22,
     "x": -46,
     "y": -213,
-    "cluster": 18
+    "cluster": 23
   },
-  {"name": "Carsten Buhr", "company": "SciFlow", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 23, "x": -285, "y": 188, "cluster": 29},
+  {
+    "name": "Carsten Buhr",
+    "panel": "https://sched.co/fMmv",
+    "company": "SciFlow",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 23,
+    "x": -285,
+    "y": 188,
+    "cluster": 21
+  },
   {
     "name": "Adrian Burton",
+    "panel": "https://sched.co/fMmg",
     "company": "ARDC - Australian Research Data Commons",
     "position": "Director of Services, Policy, Collections",
     "location": "@andsdata",
@@ -1149,10 +1200,11 @@
     "index": 24,
     "x": -187,
     "y": 119,
-    "cluster": 1
+    "cluster": 21
   },
   {
     "name": "Kath Burton",
+    "panel": "https://sched.co/fMmR",
     "company": "Routledge, Taylor & Francis",
     "position": "Portfolio Development - Humanities",
     "location": "Reading",
@@ -1205,10 +1257,11 @@
     "index": 25,
     "x": -161,
     "y": 236,
-    "cluster": 1
+    "cluster": 0
   },
   {
     "name": "Yvonne Campfens",
+    "panel": "https://sched.co/fMmv",
     "company": "OA Switchboard",
     "position": "Executive director OA Swtichboard",
     "location": "Netherlands",
@@ -1290,10 +1343,11 @@
     "index": 26,
     "x": -73,
     "y": 155,
-    "cluster": 26
+    "cluster": 19
   },
   {
     "name": "Mike Caprara",
+    "panel": "https://sched.co/fMn7",
     "company": "The Viscardi Center",
     "position": "Chief Information Officer",
     "location": "Albertson, NY",
@@ -1304,10 +1358,11 @@
     "index": 27,
     "x": -152,
     "y": 304,
-    "cluster": 20
+    "cluster": 22
   },
   {
     "name": "Lori Carlin",
+    "panel": "",
     "company": "Delta Think, Inc.",
     "position": "Director of Marketing",
     "location": null,
@@ -1378,10 +1433,11 @@
     "index": 28,
     "x": -56,
     "y": 0,
-    "cluster": 2
+    "cluster": 14
   },
   {
     "name": "Todd Carpenter",
+    "panel": "https://sched.co/fMmd",
     "company": "NISO",
     "position": "Executive Director",
     "location": "In an aluminum tube at 30K feet",
@@ -1392,10 +1448,11 @@
     "index": 29,
     "x": 370,
     "y": 44,
-    "cluster": 0
+    "cluster": 2
   },
   {
     "name": "Christopher Chan",
+    "panel": "https://sched.co/fMm9",
     "company": "Hong Kong Baptist University",
     "position": "Deputy University Librarian",
     "location": "Hong Kong",
@@ -1422,10 +1479,11 @@
     "index": 30,
     "x": 235,
     "y": -115,
-    "cluster": 17
+    "cluster": 9
   },
   {
     "name": "Jane Charlton",
+    "panel": "",
     "company": "Jisc (OpenAthens)",
     "position": "International marketing manager",
     "location": null,
@@ -1436,10 +1494,11 @@
     "index": 31,
     "x": -373,
     "y": 20,
-    "cluster": 12
+    "cluster": 15
   },
   {
     "name": "Barbara Chen",
+    "panel": "https://sched.co/fMnM",
     "company": "self",
     "position": "Consultant",
     "location": null,
@@ -1524,10 +1583,11 @@
     "index": 32,
     "x": 1,
     "y": 18,
-    "cluster": 11
+    "cluster": 16
   },
   {
     "name": "John Chodacki",
+    "panel": "",
     "company": "University of California Curation Center (UC3) at California Digital Library (CDL)",
     "position": null,
     "location": null,
@@ -1538,10 +1598,11 @@
     "index": 33,
     "x": -28,
     "y": -309,
-    "cluster": 19
+    "cluster": 5
   },
   {
     "name": "Jonathan Clark",
+    "panel": "https://sched.co/fMm9",
     "company": "The DOI Foundation",
     "position": "Managing Agent",
     "location": null,
@@ -1552,10 +1613,11 @@
     "index": 34,
     "x": 204,
     "y": -292,
-    "cluster": 6
+    "cluster": 13
   },
   {
     "name": "Brian Cody",
+    "panel": "https://sched.co/fMma",
     "company": "Scholastica",
     "position": "CEO and Co-Founder",
     "location": "Chicago, IL",
@@ -1566,10 +1628,11 @@
     "index": 35,
     "x": -318,
     "y": 45,
-    "cluster": 12
+    "cluster": 15
   },
   {
     "name": "Sara Jo Cohen",
+    "panel": "https://sched.co/fMmR",
     "company": "University of Michigan Press",
     "position": "Senior Acquiring Editor",
     "location": "Ann Arbor, MI",
@@ -1606,10 +1669,11 @@
     "index": 36,
     "x": 279,
     "y": 119,
-    "cluster": 15
+    "cluster": 3
   },
   {
     "name": "Andrew Cormack",
+    "panel": "https://sched.co/fMmO",
     "company": "Jisc",
     "position": "Chief Regulatory Adviser",
     "location": "UK",
@@ -1679,10 +1743,11 @@
     "index": 37,
     "x": 268,
     "y": 60,
-    "cluster": 15
+    "cluster": 2
   },
   {
     "name": "Kyle K. Courtney",
+    "panel": "https://sched.co/fMlo",
     "company": "Harvard Library",
     "position": "Copyright Advisor",
     "location": null,
@@ -1783,10 +1848,11 @@
     "index": 38,
     "x": 201,
     "y": -18,
-    "cluster": 7
+    "cluster": 9
   },
   {
     "name": "Helena Cousijn",
+    "panel": "https://sched.co/fMnD",
     "company": "DataCite",
     "position": "Director of Community Engagement & Communications",
     "location": null,
@@ -1797,10 +1863,11 @@
     "index": 39,
     "x": 260,
     "y": -272,
-    "cluster": 6
+    "cluster": 18
   },
   {
     "name": "David Crotty",
+    "panel": "https://sched.co/fMmg",
     "company": "Oxford University Press",
     "position": "Editorial Director, Journals Policy",
     "location": null,
@@ -1864,10 +1931,11 @@
     "index": 40,
     "x": 133,
     "y": 171,
-    "cluster": 25
+    "cluster": 27
   },
   {
     "name": "Kirt von Daacke",
+    "panel": "https://sched.co/fMlx",
     "company": "University of Virginia",
     "position": "Assistant Dean and Professor",
     "location": "Charlottesville, Virginia",
@@ -1878,10 +1946,11 @@
     "index": 41,
     "x": -240,
     "y": -83,
-    "cluster": 27
+    "cluster": 4
   },
   {
     "name": "Trevor A Dawes",
+    "panel": "https://sched.co/fMlZ",
     "company": "University of Delaware",
     "position": null,
     "location": "Wilmington, DE",
@@ -1934,10 +2003,11 @@
     "index": 42,
     "x": -23,
     "y": -97,
-    "cluster": 18
+    "cluster": 23
   },
   {
     "name": "Stephanie Dawson",
+    "panel": "https://sched.co/fMmR",
     "company": "ScienceOpen",
     "position": "CEO",
     "location": "Berlin, Germany",
@@ -1965,10 +2035,11 @@
     "index": 43,
     "x": -213,
     "y": 3,
-    "cluster": 16
+    "cluster": 8
   },
   {
     "name": "Marisa DeMeglio",
+    "panel": "https://sched.co/fMlu",
     "company": "DAISY Consortium",
     "position": "Software Developer",
     "location": "Los Angeles, USA",
@@ -2016,10 +2087,11 @@
     "index": 44,
     "x": -136,
     "y": -135,
-    "cluster": 27
+    "cluster": 23
   },
   {
     "name": "Aimee DesRoches",
+    "panel": "",
     "company": "Aries Systems Corporation",
     "position": null,
     "location": "North Andover, Massachusetts",
@@ -2030,10 +2102,11 @@
     "index": 45,
     "x": 360,
     "y": -16,
-    "cluster": 0
+    "cluster": 12
   },
   {
     "name": "Ken DiFiore",
+    "panel": "https://sched.co/fMlx",
     "company": "ITHAKA",
     "position": "Outreach Director",
     "location": null,
@@ -2067,10 +2140,11 @@
     "index": 46,
     "x": 10,
     "y": -193,
-    "cluster": 9
+    "cluster": 23
   },
   {
     "name": "John Dove",
+    "panel": "https://sched.co/fMm9",
     "company": "Paloma & Associates",
     "position": "Founder",
     "location": "Impact-Hub, Boston MA",
@@ -2101,10 +2175,11 @@
     "index": 47,
     "x": 303,
     "y": -36,
-    "cluster": 5
+    "cluster": 12
   },
   {
     "name": "Ian Duncan",
+    "panel": "https://sched.co/fMmm",
     "company": "The Australian Research Data Commons",
     "position": "Director, Outreach",
     "location": null,
@@ -2115,10 +2190,11 @@
     "index": 48,
     "x": -206,
     "y": 276,
-    "cluster": 29
+    "cluster": 0
   },
   {
     "name": "Christina Emery",
+    "panel": "https://sched.co/fMmv",
     "company": "Springer Nature Ltd",
     "position": "Senior marketing manager, open access books",
     "location": "London, UK",
@@ -2129,10 +2205,11 @@
     "index": 49,
     "x": -142,
     "y": -209,
-    "cluster": 27
+    "cluster": 23
   },
   {
     "name": "Lorraine Estelle",
+    "panel": "https://sched.co/fMnY",
     "company": "COUNTER",
     "position": "Project Director",
     "location": "Southampton, United Kingdom",
@@ -2193,11 +2270,26 @@
     "index": 50,
     "x": 67,
     "y": -173,
-    "cluster": 9
+    "cluster": 13
   },
-  {"name": "Rosemary Farmer", "company": "Wiley", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 51, "x": -265, "y": -28, "cluster": 16},
+  {
+    "name": "Rosemary Farmer",
+    "panel": "",
+    "company": "Wiley",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 51,
+    "x": -265,
+    "y": -28,
+    "cluster": 4
+  },
   {
     "name": "Patricia Feeney",
+    "panel": "",
     "company": "Crossref",
     "position": "Head of Metadata",
     "location": "Lynnfield, MA USA",
@@ -2208,10 +2300,11 @@
     "index": 52,
     "x": -1,
     "y": -255,
-    "cluster": 9
+    "cluster": 17
   },
   {
     "name": "Katrina Fenlon",
+    "panel": "https://sched.co/fMn1",
     "company": "University of Maryland College of Information Studies",
     "position": "Assistant Professor",
     "location": null,
@@ -2222,10 +2315,11 @@
     "index": 53,
     "x": -73,
     "y": 373,
-    "cluster": 20
+    "cluster": 22
   },
   {
     "name": "Heather Flanagan",
+    "panel": "https://sched.co/fMm0",
     "company": "Seamless Access",
     "position": "Program Director",
     "location": null,
@@ -2236,10 +2330,11 @@
     "index": 54,
     "x": -239,
     "y": -194,
-    "cluster": 10
+    "cluster": 29
   },
   {
     "name": "Judith Fraenkel",
+    "panel": "https://sched.co/fMn4",
     "company": "Ex Libris",
     "position": "Director of Product Management",
     "location": null,
@@ -2291,10 +2386,11 @@
     "index": 55,
     "x": -79,
     "y": -116,
-    "cluster": 18
+    "cluster": 23
   },
   {
     "name": "Jason Friedman",
+    "panel": "",
     "company": "CRKN",
     "position": "Manager, Member and Metadata Services",
     "location": "Ottawa",
@@ -2305,10 +2401,11 @@
     "index": 56,
     "x": -252,
     "y": 104,
-    "cluster": 12
+    "cluster": 21
   },
   {
     "name": "Kathryn Funk",
+    "panel": "https://sched.co/fMlf",
     "company": "US National Library of Medicine/National Institutes of Health",
     "position": "Technical Information Specialist",
     "location": "Bethesda, Maryland",
@@ -2355,10 +2452,11 @@
     "index": 57,
     "x": 223,
     "y": 98,
-    "cluster": 15
+    "cluster": 1
   },
   {
     "name": "Emma Ganley",
+    "panel": "https://sched.co/fMmg",
     "company": "protocols.io",
     "position": "Director of Strategic Initiatives",
     "location": "emma@protocols.io",
@@ -2403,10 +2501,11 @@
     "index": 58,
     "x": -174,
     "y": 177,
-    "cluster": 1
+    "cluster": 0
   },
   {
     "name": "Maria Gould",
+    "panel": "https://sched.co/fMnD",
     "company": "California Digital Library",
     "position": "Product Manager/Research Data Specialist",
     "location": null,
@@ -2417,10 +2516,11 @@
     "index": 59,
     "x": -300,
     "y": -77,
-    "cluster": 3
+    "cluster": 4
   },
   {
     "name": "Mark Graham",
+    "panel": "https://sched.co/fMmC",
     "company": "Internet Archive",
     "position": "Director",
     "location": "San Francisco",
@@ -2431,10 +2531,11 @@
     "index": 60,
     "x": 214,
     "y": -232,
-    "cluster": 6
+    "cluster": 13
   },
   {
     "name": "Jason Griffey",
+    "panel": "",
     "company": "NISO",
     "position": "Director of Strategic Initiatives",
     "location": "Sewanee, TN",
@@ -2548,10 +2649,11 @@
     "index": 61,
     "x": 89,
     "y": -58,
-    "cluster": 11
+    "cluster": 20
   },
   {
     "name": "Adina Halter",
+    "panel": "",
     "company": "Comcast NBCUniversal",
     "position": null,
     "location": null,
@@ -2566,6 +2668,7 @@
   },
   {
     "name": "Melissa Harrison",
+    "panel": "https://sched.co/fMnM",
     "company": "eLife Sciences Organisation",
     "position": "Head of Production Operations",
     "location": "Cambridge",
@@ -2598,10 +2701,11 @@
     "index": 63,
     "x": -200,
     "y": 61,
-    "cluster": 16
+    "cluster": 8
   },
   {
     "name": "Robert Heaton",
+    "panel": "",
     "company": "Utah State University - Merrill-Cazier Library",
     "position": "Collection Management Librarian",
     "location": "Logan, Utah",
@@ -2639,10 +2743,11 @@
     "index": 64,
     "x": 108,
     "y": 280,
-    "cluster": 21
+    "cluster": 24
   },
   {
     "name": "Hannah Heckner",
+    "panel": "https://sched.co/fMnP",
     "company": "Silverchair",
     "position": "Product Strategist",
     "location": null,
@@ -2710,10 +2815,11 @@
     "index": 65,
     "x": 39,
     "y": 191,
-    "cluster": 22
+    "cluster": 6
   },
   {
     "name": "Ginny Hendricks",
+    "panel": "https://sched.co/fMm3",
     "company": "Crossref",
     "position": "Community Director",
     "location": "London, UK",
@@ -2777,10 +2883,11 @@
     "index": 66,
     "x": -168,
     "y": -37,
-    "cluster": 16
+    "cluster": 8
   },
   {
     "name": "Christian Herzog",
+    "panel": "https://sched.co/fMll",
     "company": "Digital Science / Dimensions",
     "position": "CEO Dimensions",
     "location": null,
@@ -2791,10 +2898,11 @@
     "index": 67,
     "x": -263,
     "y": -139,
-    "cluster": 27
+    "cluster": 29
   },
   {
     "name": "Lisa Janicke Hinchliffe",
+    "panel": "https://sched.co/fMmX",
     "company": "University of Illinois at Urbana-Champaign",
     "position": "Professor/Coordinator for Information Literacy Services and Instruction in the University Library",
     "location": "Urbana-Champaign, Illinois",
@@ -2805,10 +2913,11 @@
     "index": 68,
     "x": 350,
     "y": -113,
-    "cluster": 24
+    "cluster": 12
   },
   {
     "name": "Sandy Hirsh",
+    "panel": "https://sched.co/fMm9",
     "company": "San Jose State University",
     "position": "Associate Dean for Academics",
     "location": "San Jose, CA",
@@ -2900,10 +3009,11 @@
     "index": 69,
     "x": 68,
     "y": 94,
-    "cluster": 25
+    "cluster": 16
   },
   {
     "name": "Athena Hoeppner",
+    "panel": "https://sched.co/fMnG",
     "company": "University of Central Florida",
     "position": "Discovery Services Librarian",
     "location": "Orlando, FL",
@@ -2914,10 +3024,11 @@
     "index": 70,
     "x": -72,
     "y": -268,
-    "cluster": 19
+    "cluster": 5
   },
   {
     "name": "Alex Holcombe",
+    "panel": "https://sched.co/fMli",
     "company": "University of Sydney",
     "position": "Professor",
     "location": null,
@@ -2985,10 +3096,11 @@
     "index": 71,
     "x": 103,
     "y": 220,
-    "cluster": 21
+    "cluster": 6
   },
   {
     "name": "Simon Holt",
+    "panel": "https://sched.co/fMlZ",
     "company": "Elsevier",
     "position": "Publisher, Micro/Nanotechnologies and Reference Content Volume Strategy",
     "location": null,
@@ -3027,10 +3139,11 @@
     "index": 72,
     "x": -48,
     "y": 272,
-    "cluster": 28
+    "cluster": 22
   },
   {
     "name": "Stephen Howe",
+    "panel": "https://sched.co/fMma",
     "company": "Copyright Clearance Center",
     "position": "Senior Product Manager",
     "location": "Boston, MA",
@@ -3084,10 +3197,11 @@
     "index": 73,
     "x": 22,
     "y": -135,
-    "cluster": 9
+    "cluster": 20
   },
   {
     "name": "Bruce Howell",
+    "panel": "https://sched.co/fMn7",
     "company": "The Carroll Center for the Blind",
     "position": "Accessibility Services Manager",
     "location": null,
@@ -3098,10 +3212,11 @@
     "index": 74,
     "x": 123,
     "y": 354,
-    "cluster": 21
+    "cluster": 24
   },
   {
     "name": "Iain Hrynaszkiewicz",
+    "panel": "",
     "company": "PLOS",
     "position": "Director, Open Research Solutions",
     "location": "UK",
@@ -3116,6 +3231,7 @@
   },
   {
     "name": "Ian M Ibbotson",
+    "panel": "https://sched.co/fMmv",
     "company": "Knowledge Integration",
     "position": "Director",
     "location": "Sheffield",
@@ -3126,10 +3242,11 @@
     "index": 76,
     "x": 407,
     "y": 91,
-    "cluster": 23
+    "cluster": 2
   },
   {
     "name": "Violaine Iglesias",
+    "panel": "https://sched.co/fMnM",
     "company": "Cadmore Media",
     "position": "Cadmore Media",
     "location": "Bethesda, MD",
@@ -3140,11 +3257,26 @@
     "index": 77,
     "x": -258,
     "y": 45,
-    "cluster": 12
+    "cluster": 21
   },
-  {"name": "Beverly Jamison", "company": "IEEE", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 78, "x": 99, "y": -275, "cluster": 13},
+  {
+    "name": "Beverly Jamison",
+    "panel": "",
+    "company": "IEEE",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 78,
+    "x": 99,
+    "y": -275,
+    "cluster": 17
+  },
   {
     "name": "Ben Johnson",
+    "panel": "https://sched.co/fMnG",
     "company": "Ex Libris, a ProQuest Company",
     "position": "Provider Relations Engagement Manager",
     "location": "Seattle, WA",
@@ -3184,10 +3316,11 @@
     "index": 79,
     "x": 168,
     "y": -193,
-    "cluster": 17
+    "cluster": 13
   },
   {
     "name": "Michael Johnson",
+    "panel": "https://sched.co/fMn7",
     "company": "Benetech",
     "position": "Director Content Partnerships",
     "location": null,
@@ -3198,10 +3331,11 @@
     "index": 80,
     "x": -323,
     "y": -132,
-    "cluster": 3
+    "cluster": 11
   },
   {
     "name": "Allen Jones",
+    "panel": "https://sched.co/fMmv",
     "company": "The New School",
     "position": "Director, Digital Library & Technical Services",
     "location": "Greater New York City Area",
@@ -3212,10 +3346,11 @@
     "index": 81,
     "x": 271,
     "y": -213,
-    "cluster": 6
+    "cluster": 18
   },
   {
     "name": "Andrew Joseph",
+    "panel": "https://sched.co/fMm9",
     "company": "Wits University Press",
     "position": "Digital Publisher",
     "location": null,
@@ -3226,10 +3361,11 @@
     "index": 82,
     "x": -201,
     "y": 338,
-    "cluster": 20
+    "cluster": 22
   },
   {
     "name": "Bill Kasdorf",
+    "panel": "https://sched.co/fMnM",
     "company": "Kasdorf & Associates, LLC",
     "position": "Principal",
     "location": "Ann Arbor, Michigan, USA",
@@ -3311,10 +3447,11 @@
     "index": 83,
     "x": -61,
     "y": 213,
-    "cluster": 26
+    "cluster": 19
   },
   {
     "name": "Daniel S. Katz",
+    "panel": "https://sched.co/fMnM",
     "company": "University of Illinois at Urbana-Champaign",
     "position": "Chief Scientist, NCSA",
     "location": "@danielskatz",
@@ -3367,10 +3504,11 @@
     "index": 84,
     "x": 123,
     "y": 114,
-    "cluster": 25
+    "cluster": 27
   },
   {
     "name": "Roy Kaufman",
+    "panel": "https://sched.co/fMmF",
     "company": "Copyright Clearance Center",
     "position": "Managing Director, Business Development",
     "location": null,
@@ -3439,10 +3577,11 @@
     "index": 85,
     "x": -43,
     "y": 57,
-    "cluster": 2
+    "cluster": 14
   },
   {
     "name": "Dmitri  Khodjakov",
+    "panel": "",
     "company": "Aries Systems Corporation",
     "position": "Business Systems Analyst",
     "location": "North Andover, MA",
@@ -3453,10 +3592,11 @@
     "index": 86,
     "x": 193,
     "y": -350,
-    "cluster": 13
+    "cluster": 17
   },
   {
     "name": "Bohyun Kim",
+    "panel": "https://sched.co/fMmy",
     "company": "University of Rhode Island Libraries",
     "position": "CTO & Associate Professor",
     "location": null,
@@ -3511,10 +3651,11 @@
     "index": 87,
     "x": 212,
     "y": 39,
-    "cluster": 7
+    "cluster": 1
   },
   {
     "name": "Amy Kirchhoff",
+    "panel": "https://sched.co/fMlx",
     "company": "ITHAKA",
     "position": "TDM Business Manager",
     "location": null,
@@ -3525,10 +3666,11 @@
     "index": 88,
     "x": -274,
     "y": -243,
-    "cluster": 10
+    "cluster": 28
   },
   {
     "name": "Paula Krebs",
+    "panel": "https://sched.co/fMlx",
     "company": "Modern Language Assn",
     "position": "Executive Director",
     "location": "New York, NY",
@@ -3576,10 +3718,11 @@
     "index": 89,
     "x": -130,
     "y": 137,
-    "cluster": 1
+    "cluster": 14
   },
   {
     "name": "Nettie Lagace",
+    "panel": "",
     "company": "NISO",
     "position": "Associate Executive Director",
     "location": "Boston, MA USA",
@@ -3621,10 +3764,11 @@
     "index": 90,
     "x": 179,
     "y": -135,
-    "cluster": 17
+    "cluster": 13
   },
   {
     "name": "Rachael Lammey",
+    "panel": "https://sched.co/fMnD",
     "company": "Crossref",
     "position": "Head of Special Programs",
     "location": "Oxford, UK",
@@ -3635,10 +3779,11 @@
     "index": 91,
     "x": 41,
     "y": -298,
-    "cluster": 13
+    "cluster": 17
   },
   {
     "name": "Stacey Lavelle",
+    "panel": "",
     "company": "Aries Systems Corporation",
     "position": "Senior Business Analyst",
     "location": null,
@@ -3649,10 +3794,11 @@
     "index": 92,
     "x": 216,
     "y": 339,
-    "cluster": 21
+    "cluster": 26
   },
   {
     "name": "Carlo Scollo Lavizzari",
+    "panel": "https://sched.co/fMlo",
     "company": "Lenz Caemmerer",
     "position": "Advocate",
     "location": null,
@@ -3749,11 +3895,26 @@
     "index": 93,
     "x": -4,
     "y": 231,
-    "cluster": 22
+    "cluster": 6
   },
-  {"name": "Charles Letaillieur", "company": "Opscidia", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 94, "x": 250, "y": -331, "cluster": 6},
+  {
+    "name": "Charles Letaillieur",
+    "panel": "https://sched.co/fMnP",
+    "company": "Opscidia",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 94,
+    "x": 250,
+    "y": -331,
+    "cluster": 18
+  },
   {
     "name": "Noah Levin",
+    "panel": "",
     "company": "Independent Professional",
     "position": "Co-Chair NISO KBART Standing Committee",
     "location": null,
@@ -3787,10 +3948,11 @@
     "index": 95,
     "x": -133,
     "y": 376,
-    "cluster": 20
+    "cluster": 22
   },
   {
     "name": "Noah Levin",
+    "panel": "",
     "company": "Independent Professional",
     "position": "Co-chair, NISO KBART Standing Committee",
     "location": null,
@@ -3801,10 +3963,11 @@
     "index": 96,
     "x": 55,
     "y": -233,
-    "cluster": 9
+    "cluster": 17
   },
   {
     "name": "Tim Lloyd",
+    "panel": "https://sched.co/fMnY",
     "company": "LibLynx",
     "position": "CEO",
     "location": "Washington D.C. Metro Area",
@@ -3849,10 +4012,11 @@
     "index": 97,
     "x": -67,
     "y": -57,
-    "cluster": 18
+    "cluster": 23
   },
   {
     "name": "Brandon Locke",
+    "panel": "https://sched.co/fMnV",
     "company": "Educopia Institute",
     "position": "Project Manager - Library Publishing Workflows",
     "location": null,
@@ -3863,10 +4027,11 @@
     "index": 98,
     "x": -312,
     "y": 104,
-    "cluster": 12
+    "cluster": 21
   },
   {
     "name": "Dominique Luster",
+    "panel": "https://sched.co/fMmL",
     "company": "Carnegie Museum of Art",
     "position": "Teenie Harris Archivist",
     "location": "Greater Pittsburgh Area",
@@ -3896,10 +4061,11 @@
     "index": 99,
     "x": 287,
     "y": 182,
-    "cluster": 8
+    "cluster": 3
   },
   {
     "name": "Sylvain MASSIP",
+    "panel": "https://sched.co/fMnP",
     "company": "Opscidia",
     "position": "CEO",
     "location": "France",
@@ -3934,10 +4100,11 @@
     "index": 100,
     "x": 239,
     "y": 219,
-    "cluster": 8
+    "cluster": 25
   },
   {
     "name": "Ellen McClure",
+    "panel": "https://sched.co/fMlx",
     "company": "Engaged Humanities Initiative-UIC",
     "position": "Director",
     "location": null,
@@ -3948,10 +4115,11 @@
     "index": 101,
     "x": -299,
     "y": -187,
-    "cluster": 10
+    "cluster": 28
   },
   {
     "name": "Alison McGonagle-O'Connell",
+    "panel": "",
     "company": "Delta Think",
     "position": "Director of Community Engagement",
     "location": "USA",
@@ -3962,10 +4130,11 @@
     "index": 102,
     "x": 390,
     "y": -68,
-    "cluster": 24
+    "cluster": 12
   },
   {
     "name": "Rebecca McLeod",
+    "panel": "https://sched.co/fMn4",
     "company": "Harvard Data Science Review",
     "position": "Managing Director",
     "location": null,
@@ -3976,10 +4145,11 @@
     "index": 103,
     "x": -315,
     "y": 240,
-    "cluster": 29
+    "cluster": 21
   },
   {
     "name": "Alice Meadows",
+    "panel": "",
     "company": "NISO",
     "position": "Director of Community Engagement",
     "location": "Brookline, MA",
@@ -3990,10 +4160,11 @@
     "index": 104,
     "x": -132,
     "y": -268,
-    "cluster": 19
+    "cluster": 10
   },
   {
     "name": "Gabriela Mejias",
+    "panel": "https://sched.co/fMnD",
     "company": "ORCID",
     "position": "Engagement Manager",
     "location": "Berlin, Germany",
@@ -4004,11 +4175,26 @@
     "index": 105,
     "x": 340,
     "y": 156,
-    "cluster": 15
+    "cluster": 3
   },
-  {"name": "Alex Mendonca", "company": "SciELO", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 106, "x": -359, "y": -63, "cluster": 3},
+  {
+    "name": "Alex Mendonca",
+    "panel": "",
+    "company": "SciELO",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 106,
+    "x": -359,
+    "y": -63,
+    "cluster": 4
+  },
   {
     "name": "Laurent Le Meur",
+    "panel": "https://sched.co/fMlu",
     "company": "EDRLab",
     "position": "CTO",
     "location": "Paris, France",
@@ -4057,10 +4243,11 @@
     "index": 107,
     "x": 112,
     "y": -212,
-    "cluster": 9
+    "cluster": 13
   },
   {
     "name": "Geoff Morse",
+    "panel": "https://sched.co/fMlr",
     "company": "Northwestern University Libraries",
     "position": "Interim Head of Research Services",
     "location": null,
@@ -4071,10 +4258,11 @@
     "index": 108,
     "x": 36,
     "y": 372,
-    "cluster": 14
+    "cluster": 24
   },
   {
     "name": "Peter Murray",
+    "panel": "",
     "company": "Index Data",
     "position": "Open Source Community Advocate",
     "location": "Columbus, Ohio Area",
@@ -4146,10 +4334,11 @@
     "index": 109,
     "x": 34,
     "y": -77,
-    "cluster": 11
+    "cluster": 20
   },
   {
     "name": "Jeremy Myntti",
+    "panel": "https://sched.co/fMlx",
     "company": "University of Utah, Marriott Library",
     "position": "Interim Associate Dean",
     "location": null,
@@ -4160,10 +4349,11 @@
     "index": 110,
     "x": 281,
     "y": -154,
-    "cluster": 24
+    "cluster": 18
   },
   {
     "name": "Anna Neatrour",
+    "panel": "https://sched.co/fMlx",
     "company": "University of Utah",
     "position": "Interim Head, Digital Library Services",
     "location": "Salt Lake City, Utah",
@@ -4178,6 +4368,7 @@
   },
   {
     "name": "Charles O'Connor",
+    "panel": "https://sched.co/fMnM",
     "company": "Aries Systems",
     "position": "Business Systems Analyst",
     "location": null,
@@ -4188,10 +4379,11 @@
     "index": 112,
     "x": -193,
     "y": -154,
-    "cluster": 27
+    "cluster": 29
   },
   {
     "name": "Brian O'Leary",
+    "panel": "https://sched.co/fMnY",
     "company": "Book Industry Study Group",
     "position": "Executive Director",
     "location": "South Orange, New Jersey",
@@ -4256,10 +4448,11 @@
     "index": 113,
     "x": -11,
     "y": -38,
-    "cluster": 11
+    "cluster": 20
   },
   {
     "name": "Joy Owango",
+    "panel": "https://sched.co/fMlf",
     "company": "TCC Africa/AfricArXiv",
     "position": "Executive Director/Board Member",
     "location": null,
@@ -4333,10 +4526,11 @@
     "index": 114,
     "x": -99,
     "y": 40,
-    "cluster": 2
+    "cluster": 14
   },
   {
     "name": "Abel Packer",
+    "panel": "https://sched.co/fMlf",
     "company": "SciELO",
     "position": null,
     "location": null,
@@ -4347,10 +4541,11 @@
     "index": 115,
     "x": 328,
     "y": -231,
-    "cluster": 6
+    "cluster": 18
   },
   {
     "name": "Danielle Padula",
+    "panel": "",
     "company": "Scholastica",
     "position": "Marketing and Community Development Manager",
     "location": "Chicago, IL",
@@ -4394,10 +4589,11 @@
     "index": 116,
     "x": -104,
     "y": 253,
-    "cluster": 26
+    "cluster": 0
   },
   {
     "name": "Russell Palmer",
+    "panel": "https://sched.co/fMmy",
     "company": "GALILEO",
     "position": "Assistant Director",
     "location": "Athens, GA",
@@ -4408,10 +4604,11 @@
     "index": 117,
     "x": -89,
     "y": -326,
-    "cluster": 19
+    "cluster": 5
   },
   {
     "name": "Erika Pastrana",
+    "panel": "https://sched.co/fMnM",
     "company": "Springer Nature",
     "position": "Editorial Director",
     "location": "New York",
@@ -4475,10 +4672,11 @@
     "index": 118,
     "x": -31,
     "y": 116,
-    "cluster": 2
+    "cluster": 19
   },
   {
     "name": "Diane Pennington",
+    "panel": "https://sched.co/fMlr",
     "company": "University of Strathclyde",
     "position": "Senior Lecturer in Info Science & CILIP MDG Chair",
     "location": "Glasgow, Scotland",
@@ -4540,10 +4738,11 @@
     "index": 119,
     "x": 145,
     "y": -39,
-    "cluster": 4
+    "cluster": 9
   },
   {
     "name": "Steve Pinchotti",
+    "panel": "https://sched.co/fMnb",
     "company": "Altum",
     "position": "CEO",
     "location": "Reston, VA",
@@ -4608,10 +4807,11 @@
     "index": 120,
     "x": 52,
     "y": 250,
-    "cluster": 28
+    "cluster": 6
   },
   {
     "name": "Heather Piwowar",
+    "panel": "https://sched.co/fMmv",
     "company": "Our Research",
     "position": "cofounder",
     "location": "Vancouver Canada",
@@ -4637,10 +4837,11 @@
     "index": 121,
     "x": 162,
     "y": 305,
-    "cluster": 21
+    "cluster": 26
   },
   {
     "name": "Eleonora Presani",
+    "panel": "https://sched.co/fMmv",
     "company": "arXiv",
     "position": "Executive Director",
     "location": "New York, NY",
@@ -4679,10 +4880,11 @@
     "index": 122,
     "x": -156,
     "y": 21,
-    "cluster": 16
+    "cluster": 8
   },
   {
     "name": "Jason Priem",
+    "panel": "",
     "company": "Our Research",
     "position": "cofounder",
     "location": null,
@@ -4693,10 +4895,11 @@
     "index": 123,
     "x": 419,
     "y": -5,
-    "cluster": 23
+    "cluster": 12
   },
   {
     "name": "Raymond Pun",
+    "panel": "",
     "company": "Alder Graduate School of Education",
     "position": "Librarian",
     "location": "California",
@@ -4707,10 +4910,11 @@
     "index": 124,
     "x": -231,
     "y": 160,
-    "cluster": 1
+    "cluster": 21
   },
   {
     "name": "Erik Radio",
+    "panel": "https://sched.co/fMmy",
     "company": "University of Colorado at Boulder Libraries",
     "position": "Metadata Librarian",
     "location": null,
@@ -4721,10 +4925,11 @@
     "index": 125,
     "x": 13,
     "y": -353,
-    "cluster": 13
+    "cluster": 17
   },
   {
     "name": "C K Ramaiah",
+    "panel": "https://sched.co/fMm9",
     "company": "University of Pondicherry",
     "position": "Professor",
     "location": null,
@@ -4735,10 +4940,11 @@
     "index": 126,
     "x": 287,
     "y": 256,
-    "cluster": 8
+    "cluster": 7
   },
   {
     "name": "Andr e Rathemacher",
+    "panel": "",
     "company": "University of Rhode Island",
     "position": "Professor Librarian",
     "location": "Kingston, RI",
@@ -4776,10 +4982,11 @@
     "index": 127,
     "x": 246,
     "y": -57,
-    "cluster": 5
+    "cluster": 9
   },
   {
     "name": "Laura Ricci",
+    "panel": "https://sched.co/fMnY",
     "company": "Clarke & Esposito",
     "position": "Consultant",
     "location": "Boston",
@@ -4830,10 +5037,11 @@
     "index": 128,
     "x": 156,
     "y": 19,
-    "cluster": 4
+    "cluster": 1
   },
   {
     "name": "Oya Y. Rieger",
+    "panel": "https://sched.co/fMlo",
     "company": "Ithaka S+R",
     "position": "Senior Strategist",
     "location": null,
@@ -4844,10 +5052,11 @@
     "index": 129,
     "x": -18,
     "y": 400,
-    "cluster": 14
+    "cluster": 22
   },
   {
     "name": "Dario Rodighiero",
+    "panel": "https://sched.co/fMnD",
     "company": "Harvard University, Berkman Klein Center for Internet & Society",
     "position": "Research Scholar",
     "location": "Cambridge, MA",
@@ -4970,10 +5179,11 @@
     "index": 130,
     "x": 56,
     "y": 37,
-    "cluster": 11
+    "cluster": 16
   },
   {
     "name": "Vee Rogacheva",
+    "panel": "https://sched.co/fMmX",
     "company": "OpenAthens",
     "position": "Service design lead",
     "location": null,
@@ -4984,10 +5194,11 @@
     "index": 131,
     "x": 335,
     "y": 96,
-    "cluster": 0
+    "cluster": 2
   },
   {
     "name": "Rhonda Ross",
+    "panel": "",
     "company": "CAS",
     "position": "Assistant Director, Marketing Programs Management",
     "location": "Columbus, OH",
@@ -4998,10 +5209,11 @@
     "index": 132,
     "x": -337,
     "y": 159,
-    "cluster": 12
+    "cluster": 21
   },
   {
     "name": "Rebecca Ross",
+    "panel": "https://sched.co/fMm3",
     "company": "Canadian Research Knowledge Network",
     "position": null,
     "location": null,
@@ -5012,10 +5224,11 @@
     "index": 133,
     "x": 73,
     "y": -348,
-    "cluster": 13
+    "cluster": 17
   },
   {
     "name": "Joris van Rossum",
+    "panel": "https://sched.co/fMmL",
     "company": "International STM Association",
     "position": "Director, Research Integrity",
     "location": null,
@@ -5026,10 +5239,11 @@
     "index": 134,
     "x": -23,
     "y": 340,
-    "cluster": 14
+    "cluster": 22
   },
   {
     "name": "Sara Rouhi",
+    "panel": "https://sched.co/fMnY",
     "company": "Public Library of Science (PLoS)",
     "position": "Director, Strategic Partnerships",
     "location": "Washington DC",
@@ -5040,10 +5254,11 @@
     "index": 135,
     "x": 314,
     "y": 22,
-    "cluster": 0
+    "cluster": 2
   },
   {
     "name": "Katharina Ruckstuhl",
+    "panel": "https://sched.co/fMlZ",
     "company": "Otago Business School, University of Otago",
     "position": "Associate Dean M_ori",
     "location": "Otago",
@@ -5104,10 +5319,11 @@
     "index": 136,
     "x": 232,
     "y": 156,
-    "cluster": 15
+    "cluster": 25
   },
   {
     "name": "Donald Samulack",
+    "panel": "https://sched.co/fMnD",
     "company": "Cactus Communications",
     "position": "Head, Global Stakeholder Engagement",
     "location": "Princeton, NJ",
@@ -5175,11 +5391,26 @@
     "index": 137,
     "x": -87,
     "y": 97,
-    "cluster": 2
+    "cluster": 14
   },
-  {"name": "Solange Santos", "company": "SciELO", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 138, "x": -121, "y": -377, "cluster": 19},
+  {
+    "name": "Solange Santos",
+    "panel": "https://sched.co/fMn7",
+    "company": "SciELO",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 138,
+    "x": -121,
+    "y": -377,
+    "cluster": 5
+  },
   {
     "name": "Jodi Schneider",
+    "panel": "https://sched.co/fMnP",
     "company": "University of Illinois Urbana-Champaign",
     "position": "Assistant Professor",
     "location": "Champaign, IL",
@@ -5190,10 +5421,11 @@
     "index": 139,
     "x": 211,
     "y": 272,
-    "cluster": 8
+    "cluster": 26
   },
   {
     "name": "Peter Simon",
+    "panel": "https://sched.co/fMm9",
     "company": "NewsBank, Inc",
     "position": "Vice President, Product Management",
     "location": null,
@@ -5267,10 +5499,11 @@
     "index": 140,
     "x": 13,
     "y": 76,
-    "cluster": 2
+    "cluster": 16
   },
   {
     "name": "Natasha Simons",
+    "panel": "",
     "company": "Australian Research Data Commons",
     "position": "Associate Director, Data and Services",
     "location": "Brisbane, Australia",
@@ -5317,10 +5550,11 @@
     "index": 141,
     "x": -124,
     "y": -76,
-    "cluster": 27
+    "cluster": 8
   },
   {
     "name": "Nancy Sims",
+    "panel": "https://sched.co/fMmF",
     "company": "University of Minnesota",
     "position": "Copyright Program Librarian",
     "location": "Minneapolis, MN",
@@ -5348,10 +5582,11 @@
     "index": 142,
     "x": -91,
     "y": 313,
-    "cluster": 20
+    "cluster": 22
   },
   {
     "name": "Rob Smith",
+    "panel": "https://sched.co/fMn7",
     "company": "EBSCO Information Services",
     "position": "Platform Product Manager, Accessibility",
     "location": "Seattle, WA",
@@ -5362,10 +5597,11 @@
     "index": 143,
     "x": -311,
     "y": -290,
-    "cluster": 10
+    "cluster": 28
   },
   {
     "name": "Heather Staines",
+    "panel": "https://sched.co/fMmC",
     "company": "Independent",
     "position": "Independent Consultant",
     "location": "Greater New York City Area",
@@ -5376,10 +5612,11 @@
     "index": 144,
     "x": -91,
     "y": -174,
-    "cluster": 18
+    "cluster": 23
   },
   {
     "name": "Shelley Stall",
+    "panel": "https://sched.co/fMll",
     "company": "American Geophysical Union",
     "position": "Sr Director, Data Leadership",
     "location": "Washington, DC",
@@ -5476,10 +5713,11 @@
     "index": 145,
     "x": 100,
     "y": 0,
-    "cluster": 4
+    "cluster": 20
   },
   {
     "name": "Christine Stohn",
+    "panel": "https://sched.co/fMmI",
     "company": "ProQuest (Ex Libris)",
     "position": "Dir Product Management",
     "location": "christine.stohn",
@@ -5521,10 +5759,11 @@
     "index": 146,
     "x": 78,
     "y": -115,
-    "cluster": 11
+    "cluster": 20
   },
   {
     "name": "Paul Stokes",
+    "panel": "https://sched.co/fMma",
     "company": "Jisc",
     "position": "Product Manager",
     "location": "UK",
@@ -5565,10 +5804,11 @@
     "index": 147,
     "x": 123,
     "y": -154,
-    "cluster": 17
+    "cluster": 13
   },
   {
     "name": "Hayley Sund",
+    "panel": "",
     "company": "Copyright Clearance Center",
     "position": null,
     "location": null,
@@ -5579,10 +5819,11 @@
     "index": 148,
     "x": -389,
     "y": -115,
-    "cluster": 3
+    "cluster": 11
   },
   {
     "name": "Christine Suver",
+    "panel": "https://sched.co/fMmO",
     "company": "Sage Bionetworks",
     "position": "Director Research Governance and Ethics",
     "location": "USA",
@@ -5658,10 +5899,11 @@
     "index": 149,
     "x": -117,
     "y": 195,
-    "cluster": 26
+    "cluster": 0
   },
   {
     "name": "Patrick Sweeney",
+    "panel": "https://sched.co/fMm3",
     "company": "EveryLibrary Institute",
     "position": "Political Director",
     "location": null,
@@ -5672,10 +5914,11 @@
     "index": 150,
     "x": -189,
     "y": 397,
-    "cluster": 20
+    "cluster": 22
   },
   {
     "name": "Carolina Tanigushi",
+    "panel": "https://sched.co/fMm9",
     "company": "SciELO - Scientific Electronic Library Online",
     "position": "Jr Visual Programmer",
     "location": "S o Paulo, Brazil",
@@ -5686,10 +5929,11 @@
     "index": 151,
     "x": -204,
     "y": -354,
-    "cluster": 19
+    "cluster": 10
   },
   {
     "name": "Randy Townsend",
+    "panel": "https://sched.co/fMnP",
     "company": "American Geophysical Union (AGU)",
     "position": "Director, Publishing Operations",
     "location": null,
@@ -5759,10 +6003,11 @@
     "index": 152,
     "x": -17,
     "y": 173,
-    "cluster": 22
+    "cluster": 19
   },
   {
     "name": "Brooks Travis",
+    "panel": "https://sched.co/fMmy",
     "company": "Missouri State University",
     "position": "Library IT Coordinator",
     "location": "Springfield, Missouri Area",
@@ -5773,10 +6018,11 @@
     "index": 153,
     "x": -392,
     "y": 134,
-    "cluster": 12
+    "cluster": 15
   },
   {
     "name": "Michelle Urberg",
+    "panel": "https://sched.co/fMmL",
     "company": "Maverick Publishing Specialists",
     "position": "Affiliate Associate",
     "location": null,
@@ -5787,10 +6033,11 @@
     "index": 154,
     "x": 133,
     "y": -344,
-    "cluster": 13
+    "cluster": 17
   },
   {
     "name": "Ken Varnum",
+    "panel": "https://sched.co/fMlr",
     "company": "University of Michigan",
     "position": "Senior Program Manager",
     "location": "Ann Arbor, MI",
@@ -5818,10 +6065,11 @@
     "index": 155,
     "x": 292,
     "y": -95,
-    "cluster": 5
+    "cluster": 12
   },
   {
     "name": "Julie Frick Wade",
+    "panel": "",
     "company": "Modern Language Assn",
     "position": "Assoc Editor, MLA International Bibliography",
     "location": null,
@@ -5832,10 +6080,11 @@
     "index": 156,
     "x": -343,
     "y": -228,
-    "cluster": 10
+    "cluster": 28
   },
   {
     "name": "Clarissa West-White",
+    "panel": "https://sched.co/fMm9",
     "company": "Bethune Cookman University",
     "position": "Reference Instructor/Research Librarian",
     "location": "Daytona Beach, Florida",
@@ -5846,11 +6095,26 @@
     "index": 157,
     "x": 396,
     "y": -151,
-    "cluster": 24
+    "cluster": 12
   },
-  {"name": "Kristen Wilson", "company": "Index Data", "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 158, "x": -258, "y": 306, "cluster": 29},
+  {
+    "name": "Kristen Wilson",
+    "panel": "",
+    "company": "Index Data",
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 158,
+    "x": -258,
+    "y": 306,
+    "cluster": 0
+  },
   {
     "name": "Rachel J. Wittmann",
+    "panel": "https://sched.co/fMlx",
     "company": "Marriott Library, University of Utah",
     "position": "Digital Curation Librarian",
     "location": "rachel.wittmann@gmail.com",
@@ -5861,10 +6125,11 @@
     "index": 159,
     "x": -45,
     "y": -367,
-    "cluster": 19
+    "cluster": 5
   },
   {
     "name": "Deborah Wyatt",
+    "panel": "https://sched.co/fMnD",
     "company": "Impact Science, a CACTUS brand",
     "position": "Vice President, Global Academic & Society Relations",
     "location": "Australia",
@@ -5875,11 +6140,26 @@
     "index": 160,
     "x": 310,
     "y": 311,
-    "cluster": 8
+    "cluster": 7
   },
-  {"name": "Lesley Wyborn", "company": null, "position": null, "location": null, "url": null, "image": null, "tokens": {}, "relevancy": 1, "index": 161, "x": -408, "y": -29, "cluster": 3},
+  {
+    "name": "Lesley Wyborn",
+    "panel": "https://sched.co/hCEu",
+    "company": null,
+    "position": null,
+    "location": null,
+    "url": null,
+    "image": null,
+    "tokens": {},
+    "relevancy": 1,
+    "index": 161,
+    "x": -408,
+    "y": -29,
+    "cluster": 15
+  },
   {
     "name": "Richard Wynne",
+    "panel": "https://sched.co/fMli",
     "company": "Rescognito",
     "position": "Founder",
     "location": null,
@@ -5916,10 +6196,11 @@
     "index": 162,
     "x": 62,
     "y": 317,
-    "cluster": 28
+    "cluster": 24
   },
   {
     "name": "Andromeda Yelton",
+    "panel": "https://sched.co/fMmI",
     "company": "_",
     "position": null,
     "location": "Somerville, MA",
@@ -5965,10 +6246,11 @@
     "index": 163,
     "x": 190,
     "y": -77,
-    "cluster": 17
+    "cluster": 9
   },
   {
     "name": "Ralph Youngen",
+    "panel": "https://sched.co/fMmX",
     "company": "ACS Publications",
     "position": "Sr. Director, Digital Strategy",
     "location": "Washington, DC",
