@@ -15,8 +15,8 @@
   "author": "Dario Rodighiero",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.12.17",
-    "@babel/preset-env": "^7.12.17",
+    "@babel/core": "^7.13.1",
+    "@babel/preset-env": "^7.13.5",
     "babel-loader": "^8.2.2",
     "css-loader": "^5.0.2",
     "csv-parser": "^3.0.0",
@@ -29,7 +29,7 @@
     "remove-accents": "^0.4.2",
     "skmeans": "^0.11.3",
     "stopword": "^1.0.6",
-    "webpack": "^5.23.0",
+    "webpack": "^5.24.1",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
   },
