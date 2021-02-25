@@ -29,7 +29,7 @@
     "remove-accents": "^0.4.2",
     "skmeans": "^0.11.3",
     "stopword": "^1.0.6",
-    "webpack": "^5.24.1",
+    "webpack": "^5.24.2",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
   },
